@@ -1,0 +1,19 @@
+// getting values like  ',1,2,3,4,5'
+var Accepted = (from l in db.vBDListings
+                            where l.ListingGuid == ListingGuid
+                            select new
+                            {
+                                l.AcceptedPayments
+                            }).FirstOrDefault();
+                            
+                            
+
+            string[] result = Accepted.AcceptedPayments.Split(','); // spilitting in string array
+            var wo = from p in db.AcceptedPayments
+                     where result.Contains(p.PaymentTypeId.ToString())  // joining with Int Type
+                     select new
+                     {
+                         p.Icon
+                     };
+
+            return wo.ToList();
