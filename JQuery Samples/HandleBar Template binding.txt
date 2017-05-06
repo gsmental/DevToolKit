@@ -1,0 +1,25 @@
+        function GetAcceptedPaymentsByListingGuid(Id) {
+            $.ajax({
+                url: '/BusinessListing/GetAcceptedPaymentsByListingId',
+                type: "GET",
+                data: { ListingId: Id },
+                dataType: "JSON",
+                success: function (Cat) {
+                   
+                                var theTemplateScript = $("#AcceptedPaymentsTemplate").html();
+                    var theTemplate = Handlebars.compile(theTemplateScript);
+                    var theCompiledHtml = theTemplate(Cat);
+                    $('#AcceptedPayments').html(theCompiledHtml);
+
+
+                }
+            });
+        }
+        
+        
+   <script id="AcceptedPaymentsTemplate" type="text/x-handlebars-template">
+    {{#each this}}
+    <li><a href="#"><i class="{{Icon}}"></i></a></li>
+    @*<li><i class="{{Icon}}"></i></li>*@
+    {{/each}}
+</script>
