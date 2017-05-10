@@ -1,0 +1,26 @@
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-3-typeahead/4.0.1/bootstrap3-typeahead.min.js"></script>
+   
+   <input id="typeahead-input" type="text" data-provide="typeahead" /> 
+   
+
+var Dept = (from d in db.Departments
+                        where d.Title.Contains(department)
+                        select new { d.Title }).ToList();
+
+            List<string> listData = null;
+            listData = Dept.Select(q => (string)q.Title).ToList();
+            return Json(listData, JsonRequestBehavior.AllowGet);
+            
+            
+            
+            
+          $('#typeahead-input').typeahead({
+        hint: true,
+        highlight: true,
+        minLength: 3,
+        source: function (request, process) {
+                $.getJSON("/BookSubject/GetDepartments/?department=" + request, function (data) {
+                    return process(data);
+                });
+            }
+    });
