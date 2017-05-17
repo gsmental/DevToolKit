@@ -1,0 +1,2 @@
+db.RequestedBookTempCarts.RemoveRange(db.RequestedBookTempCarts.Where(x => x.AuthorFacultyId == obj.AuthorFacultyId));
+db.SaveChanges();
