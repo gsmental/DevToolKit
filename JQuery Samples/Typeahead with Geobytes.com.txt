@@ -1,0 +1,9 @@
+<script type="text/javascript">
+        $('input.typeahead').typeahead({
+            source: function (request, process) {
+                $.getJSON("http://gd.geobytes.com/AutoCompleteCity?callback=?&q=" + request, function (data) {
+                    return process(data);
+                });
+            }
+        });
+</script>
