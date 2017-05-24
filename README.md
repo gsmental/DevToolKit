@@ -25,4 +25,4 @@ Please send a pull request to add any links and use the issues for general quest
 http://gijgo.com/   MIT/ Bootstrap and jQuery UI / WIDGETS:- Grid, Dialog, Tree, Dragable, Dropable, 
 
 ##Ionic Framework
-http://mcgivery.com/100-ionic-framework-resources/   ..a very good resource for Ionic Framework, everthing is available component, code, angular coding, html etc.
+* http://mcgivery.com/100-ionic-framework-resources/   ..a very good resource for Ionic Framework, everthing is available component, code, angular coding, html etc.
