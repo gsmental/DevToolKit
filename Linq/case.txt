@@ -1,0 +1,33 @@
+            var Art = (from a in db.ArticleTypes
+                       orderby B.ArticleTypeName,a.ArticleTypeName
+                       where a.IsActive==true
+                       select new
+                       {
+                           //dept != null ? dept.Name : null 
+                           ArticleTypeName = B != null ? B.ArticleTypeName + " / " + a.ArticleTypeName : a.ArticleTypeName
+                       }).ToList();
+            return Art;
+
+
+
+var mari = (from m in db.UserProfiles
+                       where m.DateofBirth != null
+                        orderby Guid.NewGuid()
+                        select new VMMarriageAnniversity { Day = m.DateofBirth.Value.Day, DisplayName = m.FirstName + " " + m.LastName,
+                            Month = (
+                            m.AnniversaryDate.Value.Month == 1 ? "Jan" :
+                            m.AnniversaryDate.Value.Month == 2 ? "Feb" :
+                            m.AnniversaryDate.Value.Month == 3 ? "Mar" :
+                            m.AnniversaryDate.Value.Month == 4 ? "Apr" :
+                            m.AnniversaryDate.Value.Month == 5 ? "May" :
+                            m.AnniversaryDate.Value.Month == 6 ? "Jun" :
+                            m.AnniversaryDate.Value.Month == 7 ? "Jul" :
+                            m.AnniversaryDate.Value.Month == 8 ? "Aug" :
+                            m.AnniversaryDate.Value.Month == 9 ? "Sep" :
+                            m.AnniversaryDate.Value.Month == 10 ? "Oct" :
+                            m.AnniversaryDate.Value.Month == 11 ? "Nov" :
+                            m.AnniversaryDate.Value.Month == 12 ? "Dec" : ""
+                            ),
+                            ImageUrl = m.ImgUrl == null ? "DefaultProfilePic.png" : m.ImgUrl
+                        }).Take(15);
+            return mari.ToList();
