@@ -1,0 +1,4 @@
+dotnet new mvc --auth Individual    ---- Complete mvc with login
+
+other template sample
+https://long2know.com/2017/04/net-core-angular-vs2017-templates/
