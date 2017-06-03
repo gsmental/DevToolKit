@@ -1,0 +1,8 @@
+<script type='text/javascript'>
+    $(document).ready(function () {
+        $("#toggleAllCheckBox").click(function () {
+            $('.ChecBoxClass').not(this).prop('checked', this.checked);
+            $('#CheckBoxName').not(this).prop('checked', this.checked);
+        });
+    });
+</script>
