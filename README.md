@@ -6,6 +6,8 @@ A list of helpful material to develop  Website/Softwrae using frameworks, Librar
 Please send a pull request to add any links and use the issues for general questions, thanks!
 ###heart:by [G.S.Menntal](http://www.menntal.com/). Follow us on [Twitter](https://twitter.com/gsmenntal) to get latest news about it first!
 
+##Tutorial for all development languaes
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
 ##Agnular2
 * https://github.com/akveo/ng2-admin]		##Complete Admin Panel in Angular/BS4/Webpack
