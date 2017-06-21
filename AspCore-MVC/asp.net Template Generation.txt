@@ -1,3 +1,5 @@
+dotnet new --install Microsoft.AspNetCore.SpaTemplates::*           download various templates from github
+
 dotnet new mvc --auth Individual    ---- Complete mvc with login
 
 other template sample
