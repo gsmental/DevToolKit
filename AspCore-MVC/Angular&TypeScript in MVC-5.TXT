@@ -1,0 +1,6 @@
+Insall 
+https://www.microsoft.com/en-us/download/details.aspx?id=48593   typescript for vs 2015
+
+npm install    ------ in root folder
+
+
