@@ -25,9 +25,7 @@ private ApplicationUserManager _userManager;
          [HttpPost]
         [ValidateAntiForgeryToken]
             public async Task<ActionResult> Register(RegisterViewModel model)
-        {
-            AccountController acc = new AccountController();
-            
+        {           
             if (ModelState.IsValid)
             {
                 var user = new ApplicationUser()
