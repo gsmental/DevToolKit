@@ -25,7 +25,7 @@ private ApplicationUserManager _userManager;
          [HttpPost]
         [ValidateAntiForgeryToken]
             public async Task<ActionResult> Register(RegisterViewModel model)
-        {           
+        {
             if (ModelState.IsValid)
             {
                 var user = new ApplicationUser()
@@ -37,8 +37,15 @@ private ApplicationUserManager _userManager;
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {
-                       ///     return RedirectToAction("Index", "Home");
+                   ///////
+                    ///////return RedirectToAction("Register", "Users");
                 }
+
+                foreach (var error in result.Errors)
+                {
+                    ModelState.AddModelError("", error);
                 }
-                 return Register();
+                return View(model);
+            }
+            return Register();
         }
