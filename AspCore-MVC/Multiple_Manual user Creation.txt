@@ -1,0 +1,46 @@
+private ApplicationSignInManager _signInManager;
+private ApplicationUserManager _userManager;
+
+ public ApplicationUserManager UserManager
+        {
+            get
+            {
+                return _userManager ?? HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
+            }
+            private set
+            {
+                _userManager = value;
+            }
+        }
+        
+        
+        public ActionResult Register()
+        {
+            RegisterViewModel rm = new RegisterViewModel();
+            rm.UniversityName = "DefaultUni";
+            return View(rm);
+        }
+        
+        
+         [HttpPost]
+        [ValidateAntiForgeryToken]
+            public async Task<ActionResult> Register(RegisterViewModel model)
+        {
+            AccountController acc = new AccountController();
+            
+            if (ModelState.IsValid)
+            {
+                var user = new ApplicationUser()
+                {
+                    UserName = model.Email,
+                    Email = model.Email
+                };
+                
+                var result = await UserManager.CreateAsync(user, model.Password);
+                if (result.Succeeded)
+                {
+                       ///     return RedirectToAction("Index", "Home");
+                }
+                }
+                 return Register();
+        }
