@@ -1,10 +1,49 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.3/css/bootstrap-select.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.3/js/bootstrap-select.min.js"></script>
+
+// view
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutDashboard.cshtml";
+}
+
+<h2>Index</h2>
+
+<div class="form-group">
+    <label class = "control-label col-md-2">Program</label>
+    <div class="col-md-10" id="divProgram">
+    </div>
+    <button class="btn btn-info" onclick="GetPaperList()">View</button>
+</div>
+
+<script id="ProgramListTemplate" type="text/x-handlebars">
+    <select id="Program" multiple="multiple" name="Program" class="selectpicker" title="Select multiple Programs">
+        {{#each this}}
+        <option value="{{ProgramId}}">{{ProgrameTitle}}</option>
+        {{/each}}
+    </select>
+</script>
+
+
 
 <script type="text/javascript">
     $(document).ready(function() {
         GetProgramAll();
     });
+
+    function GetPaperList() {
+        var foo = $('#Program').val();
+        $.ajax({
+            url: '@Url.Action("GetPaperList", "PaperAssign")',
+            data: { Id: foo.toString() },
+            type: 'GET',
+            dataType: 'json',
+            success: function (Cat) {
+            },
+            error: function (xhr, status, error) {
+            }
+        });
+    }
 
     function GetProgramAll() {
         $.ajax({
@@ -16,10 +55,10 @@
                 var theTemplate = Handlebars.compile(theTemplateScript);
                 var theCompiledHtml = theTemplate(Cat);
                 $('#divProgram').html(theCompiledHtml);
-                $('#Program').multiselect();
             },
             error: function (xhr, status, error) {
             }
         });
     }
 </script>
+
