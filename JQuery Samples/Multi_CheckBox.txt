@@ -1,0 +1,25 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        GetProgramAll();
+    });
+
+    function GetProgramAll() {
+        $.ajax({
+            url: '@Url.Action("GetProgramAll", "Program")',
+            type: 'GET',
+            dataType: 'json',
+            success: function (Cat) {
+                var theTemplateScript = $("#ProgramListTemplate").html();
+                var theTemplate = Handlebars.compile(theTemplateScript);
+                var theCompiledHtml = theTemplate(Cat);
+                $('#divProgram').html(theCompiledHtml);
+                $('#Program').multiselect();
+            },
+            error: function (xhr, status, error) {
+            }
+        });
+    }
+</script>
