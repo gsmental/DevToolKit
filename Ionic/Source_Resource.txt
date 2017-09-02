@@ -1,3 +1,7 @@
 a lot of resources files aere available
 
 http://mcgivery.com/100-ionic-framework-resources/
+
+list ionic projects
+https://github.com/Alexintosh/Awesome-Ionic
+https://github.com/ionic-team/ionic-conference-app
