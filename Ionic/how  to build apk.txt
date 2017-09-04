@@ -1,0 +1,27 @@
+Note: This should be at root of project. Though not a hard requirement, it eases the file referencing
+
+Add a build.json with release/dev configuration for keystore, at the root of project:
+
+{
+    "android": {
+        "debug": {
+            "keystore": "../PTUApp.keystore",
+            "storePassword": "mentalnevergone",
+            "alias": "PTUApp",
+            "password" : "mentalnevergone",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "../PTUApp.keystore",
+            "mentalnevergone": "",
+            "alias": "PTUApp",
+            "password" : "mentalnevergone",
+            "keystoreType": ""
+        }
+    }
+}
+
+
+cordova build android --release --buildConfig=build.json
+
+cordova build android --prod --buildConfig=build.json

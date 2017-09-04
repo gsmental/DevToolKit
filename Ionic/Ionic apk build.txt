@@ -1,0 +1,3 @@
+ionic cordova run android --prod --prod			under developemnt apk
+
+ionic cordova run android --prod --release		final apk

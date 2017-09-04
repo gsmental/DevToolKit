@@ -1,0 +1,3 @@
+https://javebratt.com/ionic-firebase-authentication/
+
+https://devdactic.com/ionic-firebase-angularfire/

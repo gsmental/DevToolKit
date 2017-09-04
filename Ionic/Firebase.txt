@@ -1,0 +1,4 @@
+npm install firebase angularfire2 --save
+
+ionic cordova plugin add cordova-plugin-firebase
+npm install --save @ionic-native/firebase

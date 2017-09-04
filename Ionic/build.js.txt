@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "../PTUApp.keystore",
+            "storePassword": "mentalnevergone",
+            "alias": "PTUApp",
+            "password" : "mentalnevergone",
+            "keystoreType": ""
+        },
+        "release": {
+            "keystore": "../PTUApp.keystore",
+            "mentalnevergone": "",
+            "alias": "PTUApp",
+            "password" : "mentalnevergone",
+            "keystoreType": ""
+        }
+    }
+}
