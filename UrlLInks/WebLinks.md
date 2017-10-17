@@ -1,4 +1,4 @@
-## Free Video tutorials
+## Video tutorials
 * https://www.freetutorials.us/
 
 ## Ebooks/PDFs
