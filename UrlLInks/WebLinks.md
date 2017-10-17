@@ -1,5 +1,5 @@
-##Free Video tutorials
+## Free Video tutorials
 * https://www.freetutorials.us/
 
 ## Ebooks/PDFs
-http://it-ebooks.info
+* http://it-ebooks.info
