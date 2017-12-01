@@ -1,0 +1,10 @@
+
+These all are connection Files, Replace with fles from  App_Data
+
+copy these files from your local solution and repalce these fles on Server (IIS) for running project on server.
+
+dataSettings.json
+installedPlugins.json
+
+
+how to install install Asp.net Core on Server for IIS, read these instructions from ASP.CORE AND MVC DIRECTORY
