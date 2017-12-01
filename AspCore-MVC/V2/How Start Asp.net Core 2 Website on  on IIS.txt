@@ -1,0 +1,10 @@
+Windows Server Hosting (.exe)
+https://www.microsoft.com/net/download/windows
+
+
+Microsoft Visual C++ 2015 Redistributable Update 3
+https://www.microsoft.com/en-us/download/details.aspx?id=53840
+
+
+https://docs.microsoft.com/en-us/aspnet/core/publishing/iis?tabs=aspnetcore2x
+
