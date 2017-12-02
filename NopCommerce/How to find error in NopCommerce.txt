@@ -1,0 +1,10 @@
+How to find error in NopCommerce
+
+
+change in Web.Config
+
+stdoutLogEnabled="true" and Refresh site again
+then visit Logs directory for error
+
+it is default path for Error Logs or u can change it as per requirements
+stdoutLogFile=".\logs\stdout"
