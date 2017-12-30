@@ -21,6 +21,7 @@
 * http://ebook-dl.com/
 * www.ebook777.com
 * http://www.allitebooks.com/
+* http://www.pdfdownloadzone.com/
 
 
 # Movies
