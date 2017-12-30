@@ -18,6 +18,7 @@
 * Easy bind controls, event and mothods, instead of traditonal biding http://jakewharton.github.io/butterknife/ https://github.com/JakeWharton/butterknife
 
 * JSON TO Java Converter http://www.jsonschema2pojo.org/
+* List of all open source projects https://github.com/pcqpcq/open-source-android-apps
 
 
 # Android Commons
