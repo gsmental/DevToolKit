@@ -3,7 +3,7 @@
 * http://www.irdevelopers.com/
 * http://softwarezee.com/
 
-##Software
+# Software
 * http://www.downturk.us/
 * http://www.irdevelopers.com/
 * http://softwarezee.com/
@@ -40,6 +40,7 @@
 
 # Jquery/Bootstrap/Angular/Javascript
 * http://www.jssor.com/
+* http://tagliala.github.io/vectoriconsroundup/  all fonts with sample code
 
 # Misc
 * City and State of the world http://www.geoba.se/
