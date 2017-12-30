@@ -9,3 +9,7 @@
 *  very good library, it is not basic utitlity, it is vrey usefull system	 https://github.com/Blankj/AndroidUtilCode http://blankj.com/AndroidUtilCode/
 
 * Easy bind controls, event and mothods, instead of traditonal biding http://jakewharton.github.io/butterknife/ https://github.com/JakeWharton/butterknife
+
+
+# Android Commons
+* Android Inbuilt listview  http://arteksoftware.com/androids-built-in-list-item-layouts/
