@@ -6,7 +6,8 @@
 
 ## Libraries/UI/Utilities
 * complete list of libraries https://github.com/benoitjadinon/awesome-xamarin
-* Push Notifications https://github.com/Redth/PushSharp
+* Push Notifications 
+  * https://github.com/Redth/PushSharp
   * http://www.hasaltaiar.com.au/push-notifications-to-all-platforms-using-a-web-api-c-and-net/
   * https://github.com/has-taiar/PushSharp.Web
   * https://www.codeproject.com/Articles/868000/Push-Notification-For-Windows-iOS-Android-Quick-Ea
