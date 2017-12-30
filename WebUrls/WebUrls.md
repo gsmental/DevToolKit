@@ -1,3 +1,9 @@
+# All Links
+* http://www.downturk.us/
+* http://www.irdevelopers.com/
+* http://softwarezee.com/
+
+
 # Video tutorials
 * https://www.freetutorials.us
 
