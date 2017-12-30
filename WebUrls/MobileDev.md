@@ -5,7 +5,7 @@
 * Windows SDK for Facebook integration for Windows Apps Win 8/8.1/10 . https://github.com/Microsoft/winsdkfb
 
 ## Libraries/UI/Utilities
-* complete list of libearyies https://github.com/benoitjadinon/awesome-xamarin
+* complete list of libraries https://github.com/benoitjadinon/awesome-xamarin
 
 
 # Xamarin iOS
@@ -19,6 +19,7 @@
 
 * JSON TO Java Converter http://www.jsonschema2pojo.org/
 * List of all open source projects https://github.com/pcqpcq/open-source-android-apps
+* List of Sample Android Apps projects https://github.com/codepath/android_guides/wiki/Sample-Android-Apps
 
 
 # Android Commons
