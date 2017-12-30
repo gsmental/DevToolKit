@@ -1,2 +1,0 @@
-##VirtualBox/VMWare Installed OSx for , there is no need to install os  
-* http://www.osboxes.org/virtualbox-images/
