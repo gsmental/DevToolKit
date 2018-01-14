@@ -5,7 +5,13 @@
 * Windows SDK for Facebook integration for Windows Apps Win 8/8.1/10 . https://github.com/Microsoft/winsdkfb
 
 ## Libraries/UI/Utilities
-* complete list of libraries https://github.com/benoitjadinon/awesome-xamarin
+* complete list of libraries 
+   * https://github.com/benoitjadinon/awesome-xamarin
+   * https://github.com/xamarin/XamarinComponents
+   * https://github.com/jsuarezruiz/awesome-xamarin-forms
+   * https://github.com/aloisdeniel/Xamarin.Bindings
+   * 
+
 * Push Notifications 
   * https://github.com/Redth/PushSharp
   * http://www.hasaltaiar.com.au/push-notifications-to-all-platforms-using-a-web-api-c-and-net/
