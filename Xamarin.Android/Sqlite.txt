@@ -1,7 +1,1 @@
-Install-Package sqlite-net 
-Install-Package Mono.Data.Sqlite.Portable
-
-Note: You are required these 3 dlls reference in your Reference Directory
-•	Mono.Android
-•	Mono.Data.Sqlite
-•	System.Data
+Install-Package sqlite-net-pcl -Version 1.4.118
