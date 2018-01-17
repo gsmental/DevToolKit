@@ -23,6 +23,9 @@
 * http://www.allitebooks.com/
 * http://www.pdfdownloadzone.com/
 
+# Academic/Educational 
+* http://academictorrents.com/   Educational Video Lectures/Books/research data on every topic
+
 
 # Movies
 * http://www.hdtorrentfilms.com/
