@@ -15,6 +15,9 @@
 
 # Video tutorials
 * https://www.freetutorials.us
+* https://alison.com/
+* http://bigthink.com/
+
 
 # Ebooks/PDFs
 * http://it-ebooks.info
@@ -27,10 +30,23 @@
 * http://academictorrents.com/   Educational Video Lectures/Books/research data on every topic
 * https://www.coursera.org/
 * https://www.edx.org
+* https://www.brightstorm.com/
+* https://cosmolearning.org
+* http://www.howcast.com/
+* https://archive.org/  Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more
+* http://learner.org/resources/browse.html
+* https://ocw.mit.edu/index.htm
+* http://video.pbs.org/
+* http://www.schooltube.com/
+* http://www.teachertube.com/
+
+
 
 # Movies
 * http://www.hdtorrentfilms.com/
 * http://hdmoviesfree.me
+* http://www.snagfilms.com/  Library of free, full-length documentary films.
+* 
 
 # VirtualBox/VMWare Installed OSx
 * http://www.osboxes.org/virtualbox-images/
