@@ -25,7 +25,8 @@
 
 # Academic/Educational 
 * http://academictorrents.com/   Educational Video Lectures/Books/research data on every topic
-
+* https://www.coursera.org/
+* https://www.edx.org
 
 # Movies
 * http://www.hdtorrentfilms.com/
