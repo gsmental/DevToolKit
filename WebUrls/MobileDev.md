@@ -19,7 +19,11 @@
   * https://www.codeproject.com/Articles/868000/Push-Notification-For-Windows-iOS-Android-Quick-Ea
 
 
-# Xamarin iOS
+# Xamarin FORMS
+## Open source Projects
+  *  https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
+  *  dfdf
+  
 
 
 # Android and Android Studio
@@ -39,4 +43,7 @@
 # APK Downloader/Decompiler
 * https://apkpure.com  search app and download and DECOMPILE
 * http://www.decompileandroid.com/
+
+
+
 
