@@ -24,6 +24,14 @@
   *  https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
   *  https://gist.github.com/davidortinau/5c9129e2bfaabafcb58df07325cb4a90
   
+  ## XAML Preview/Pl
+  *  https://www.livexaml.com/
+  *  http://materialdesigninxaml.net/
+  *  http://www.cshtml5.com/
+  *  https://grialkit.com/gorilla-player/
+  *  https://www.xamarin.com/live
+  * 
+  
 
 
 # Android and Android Studio
