@@ -1,0 +1,5 @@
+you need to use a theme.appcompat theme (or descendant) with this activity. material
+error when installing on mobile
+
+Just install it 
+Install-Package Xamarin.Android.Support.v7.AppCompat -Version 27.0.2   (any version as per requirment)
