@@ -5,7 +5,7 @@ A list of helpful material to develop  Website/Softwrae using frameworks, Librar
 * [Angular](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/Angular.md)
 * [Bootstrap 3.x](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/Bootstrap%203.x.md)
 * [Web Links for Ebooks/Videos/Tuts/Sofware/Other Resources](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/WebUrls.md)
-
+* [AI/ML](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/MachineLearning.md)
 
 ##Contributing
 Please send a pull request to add any links and use the issues for general questions, thanks!
