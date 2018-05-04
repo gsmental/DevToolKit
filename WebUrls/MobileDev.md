@@ -25,7 +25,7 @@
 
 # Xamarin FORMS
 
-## https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/gtk?tabs=vswin How to start Xamarin Form for MacOS/Anroid/Linux(ubuntu)/windows 7/8/10
+## https://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/gtk?tabs=vswin How to start Xamarin Form for MacOS /Anroid/ Linux(ubuntu)/ windows 7/8/10
 
 ## Open source Projects
   *  https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI
