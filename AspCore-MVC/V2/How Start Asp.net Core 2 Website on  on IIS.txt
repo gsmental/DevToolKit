@@ -1,3 +1,7 @@
+Install this bundle
+https://www.microsoft.com/net/download/dotnet-core/runtime-2.0.7
+
+
 Windows Server Hosting (.exe)
 https://www.microsoft.com/net/download/windows
 
