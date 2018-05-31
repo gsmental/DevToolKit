@@ -14,7 +14,7 @@
    * https://github.com/xamarin/XamarinComponents
    * https://github.com/jsuarezruiz/awesome-xamarin-forms
    * https://github.com/aloisdeniel/Xamarin.Bindings
-   * 
+   * https://docs.microsoft.com/en-us/xamarin/essentials/?context=xamarin   Xamarin Essential crossplatform single library for many          functions
 
 * Push Notifications 
   * https://github.com/Redth/PushSharp
