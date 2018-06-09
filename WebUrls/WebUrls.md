@@ -25,6 +25,7 @@
 * www.ebook777.com
 * http://www.allitebooks.com/
 * http://www.pdfdownloadzone.com/
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
 # Academic/Educational 
 * http://academictorrents.com/   Educational Video Lectures/Books/research data on every topic
