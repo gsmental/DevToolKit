@@ -12,3 +12,5 @@ A list of helpful material to develop  Website/Softwrae using frameworks, Librar
 * [Web Links for Ebooks/Videos/Tuts/Sofware/Other Resources](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/WebUrls.md)
 * [AI/ML](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/MachineLearning.md)
 * [Essential Software](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/EssentialSoftware.md)
+* [Asp.net Core](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/Asp.NetCore.md)
+
