@@ -44,6 +44,8 @@
 
 
 # Movies
+* https://hdonline.is/ Live movies 
+* 
 * http://www.hdtorrentfilms.com/
 * http://hdmoviesfree.me
 * http://www.snagfilms.com/  Library of free, full-length documentary films.
