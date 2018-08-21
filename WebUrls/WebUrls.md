@@ -1,12 +1,9 @@
 # All Links
-* http://www.downturk.us/
 * http://www.irdevelopers.com/
-* http://softwarezee.com/
+
 
 # Software
-* http://www.downturk.us/
 * http://www.irdevelopers.com/
-* http://softwarezee.com/
 * http://softlay.net/
 * Software video tutorials https://drive.google.com/drive/u/0/folders/0B61rZZCN5Xw1NGxQVkJGaFZHWW8
 * http://www.freetutorials.us     video tutorials for
@@ -14,6 +11,7 @@
 * http://www.3dgfxtra.com    --graphics and design, psd
 
 # Video tutorials
+* https://www.freecoursesonline.me/
 * https://www.freetutorials.us
 * https://alison.com/
 * http://bigthink.com/
