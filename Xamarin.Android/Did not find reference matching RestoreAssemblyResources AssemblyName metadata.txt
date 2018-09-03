@@ -1,0 +1,8 @@
+any dll is corrupet in nuget packets
+
+uninstall that package
+
+try to delete concern packet folder from installed nuget directory like this
+C:\Users\hp\.nuget\packages
+
+install again. and enjoy the life
