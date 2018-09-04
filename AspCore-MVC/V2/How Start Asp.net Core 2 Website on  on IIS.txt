@@ -12,6 +12,7 @@ Microsoft Visual C++ 2015 Redistributable Update 3
 https://www.microsoft.com/en-us/download/details.aspx?id=53840
 
 -- in case of eror not resolvoved
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=26755
 https://support.microsoft.com/en-us/help/2999226/update-for-universal-c-runtime-in-windows
 
 
