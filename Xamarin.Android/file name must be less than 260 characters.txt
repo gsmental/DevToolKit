@@ -1,0 +1,15 @@
+The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, 
+and the directory name must be less than 248 characters
+
+
+https://docs.microsoft.com/en-us/xamarin/android/troubleshooting/questions/path-too-long-exception
+
+-- add these lines in androi project csproj
+
+<PropertyGroup>
+    <UseShortFileNames>True</UseShortFileNames>
+</PropertyGroup>
+
+<PropertyGroup>
+    <IntermediateOutputPath>C:\temp</IntermediateOutputPath>
+</PropertyGroup>
