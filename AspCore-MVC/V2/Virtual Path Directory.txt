@@ -1,0 +1,14 @@
+,appSettings.json
+  "VirtualPath": {
+    "UploadDirectory": "D:\\DotNetProject\\Upload"
+  }
+  
+  Startup.cs
+  public void ConfigureServices(IServiceCollection services)
+  
+  CurrentUser.UploadDirectory = Configuration.GetValue<string>("VirtualPath:UploadDirectory"); // settingUp Virtual Directory for file Upload
+  
+  and enjoy the life Menntal
+  
+  
+  
