@@ -62,6 +62,7 @@
 
 # Android Commons
 * Android Inbuilt listview  http://arteksoftware.com/androids-built-in-list-item-layouts/
+* Complete informatin about WebView https://developer.android.com/reference/android/webkit/WebViewClient 
 
 # APK Downloader/Decompiler
 * https://apkpure.com  search app and download and DECOMPILE
