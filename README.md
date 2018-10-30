@@ -14,4 +14,5 @@ A list of helpful material to develop  Website/Softwrae using frameworks, Librar
 * [Essential Software](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/EssentialSoftware.md)
 * [Asp.net Core](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/Asp.NetCore.md)
 * [Blazor](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/Blazor.md)
+* [Domain Suggestions](https://github.com/gsmental/DevToolKit/tree/master/WebUrls)
 
