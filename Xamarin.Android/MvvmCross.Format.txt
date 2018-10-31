@@ -1,0 +1,3 @@
+Format
+
+Value Format('Hello {1} - today is {0:ddd MMM yyyy}', TheDate, Name)
