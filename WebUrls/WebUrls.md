@@ -9,6 +9,7 @@
 * http://www.freetutorials.us     video tutorials for
 * http://www.freetutorial.us      --graphics and design, psd,video tuts
 * http://www.3dgfxtra.com    --graphics and design, psd
+* http://git.ir  -- Software
 
 # Video tutorials
 * https://www.freecoursesonline.me/
