@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/37393731/http-error-404-3-not-found-in-iis-10
+
+https://www.webhosting.uk.com/kb/iis-http-error-404-3-not-found-add-a-mime-map/
+
+
+Control Panel -> Programs and Features -> Turn Windows features on or off
+
+
+as 
+https://i.stack.imgur.com/9YftQ.png
