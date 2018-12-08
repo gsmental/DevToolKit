@@ -17,6 +17,8 @@
 * [Web Links for Ebooks/Videos/Tuts/Sofware/Other Resources](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/WebUrls.md)
 * [Essential Software](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/EssentialSoftware.md)
 
+#### Hacking
+* [Hacking Resources](https://github.com/gsmental/DevToolKit/blob/master/WebUrls/HackingResources.md)
 
 
 
