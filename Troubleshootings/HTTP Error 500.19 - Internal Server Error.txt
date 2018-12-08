@@ -1,0 +1,8 @@
+As per it, one of the resolution:
+1. Open the applicationHost.config file, located here: %windir%\system32\inetsrv\config\applicationHost.config
+2. Edit the "handlers" section.
+3. Change this line:
+
+<section name="handlers" overrideModeDefault="Deny" />
+To:
+<section name="handlers" overrideModeDefault="Allow" />
