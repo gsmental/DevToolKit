@@ -2,4 +2,8 @@ https://www.c-sharpcorner.com/article/how-to-enable-https-on-your-website-for-fr
 https://github.com/PKISharp/win-acme/releases
 
 
+IIS
+
+SSLSettings>RequiredSSL>enabled
+
 
