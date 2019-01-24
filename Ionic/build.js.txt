@@ -2,16 +2,16 @@
     "android": {
         "debug": {
             "keystore": "../PTUApp.keystore",
-            "storePassword": "mentalnevergone",
+            "storePassword": "",
             "alias": "PTUApp",
-            "password" : "mentalnevergone",
+            "password" : "",
             "keystoreType": ""
         },
         "release": {
             "keystore": "../PTUApp.keystore",
-            "mentalnevergone": "",
+            "": "",
             "alias": "PTUApp",
-            "password" : "mentalnevergone",
+            "password" : "",
             "keystoreType": ""
         }
     }
