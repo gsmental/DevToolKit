@@ -27,3 +27,6 @@ vue init webpack-simple vue-ionic
      npm run dev
 
 ###  if project has started in browser that mean u have win the battle and enjoy your life
+
+ Follow the complete instructions and testing project
+###https://alligator.io/vuejs/vue-ionic/
