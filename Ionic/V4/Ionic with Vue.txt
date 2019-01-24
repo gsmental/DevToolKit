@@ -34,5 +34,8 @@ Add cdn in Index.html
 <link href="https://unpkg.com/@ionic/core@4.0.0/css/ionic.bundle.css" rel="stylesheet">
 <script src="https://unpkg.com/@ionic/core@4.0.0/dist/ionic.js"></script>
 
+
+https://www.youtube.com/watch?v=o7rb1S2Txfw
+
  Follow the complete instructions and testing project
 ###https://alligator.io/vuejs/vue-ionic/
