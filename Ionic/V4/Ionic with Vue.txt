@@ -38,4 +38,6 @@ Add cdn in Index.html
 https://www.youtube.com/watch?v=o7rb1S2Txfw
 
  Follow the complete instructions and testing project
-###https://alligator.io/vuejs/vue-ionic/
+###
+https://alligator.io/vuejs/vue-ionic/
+https://www.techiediaries.com/ionic-vue/
