@@ -1,0 +1,14 @@
+Access to the path 'D:\Website\www.VishalNopCommerce\Website\Plugins\bin\Nop.Plugin.DiscountRules.CustomerRoles.dll' is denied.
+ ---> System.Exception: Plugin 'Must be assigned to customer role'. Access to the path 'D:\Website\www.VishalNopCommerce\Website\Plugins\bin\Nop.Plugin.DiscountRules.CustomerRoles.dll' is denied. ---> System.UnauthorizedAccessException: Access to the path 'D:\Website\www.VishalNopCommerce\Website\Plugins\bin\Nop.Plugin.DiscountRules.CustomerRoles.dll' is denied.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   
+   
+ For those running IIS on Windows Server:
+
+By default, the IIS user does not have write permissions for the wwwroot folder. This can be solved by granting full permissions to the IIS_IUSRS user for wwwroot.
+
+Open File Explorer and go to C:/inetpub/
+Right click on wwwroot and click on "Properties"
+Go to the Security tab and click "Edit..." to edit permissions
+Find and select the IIS user. In my case, it was called IIS_IUSRS ([server name]\IIS_IUSRS).
+Select the "Allow" checkbox for all permissions.
