@@ -1,4 +1,5 @@
 
 UI library
+https://akveo.github.io/react-native-ui-kitten/#/home
 https://react-native-training.github.io/react-native-elements/
 
