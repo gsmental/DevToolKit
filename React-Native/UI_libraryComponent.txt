@@ -2,6 +2,7 @@
 UI library
 https://nativebase.io/
 https://callstack.github.io/react-native-paper/index.html
+https://callstack.github.io/react-native-paper/index.html
 https://github.com/z448401921/react-native-ui-lib
 https://akveo.github.io/react-native-ui-kitten/#/home
 https://react-native-training.github.io/react-native-elements/
