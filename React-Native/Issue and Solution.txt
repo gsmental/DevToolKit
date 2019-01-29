@@ -1,0 +1,4 @@
+native-base 2.8.2> onward issue
+
+always install
+npm i native-base@2.8.2
