@@ -9,7 +9,9 @@ npm install @expo/vector-icons --save
 
 coding in App.Js ()
 
-state = {
+class App extends React.Component {
+
+  state = {
     fontLoaded: false,
   };
   async componentWillMount() {
@@ -22,3 +24,16 @@ state = {
   }
 
 
+ render() {
+  if (this.state.fontLoaded) {
+    return <AppContainer />;
+  }
+  else
+  {
+    return <Expo.AppLoading />;
+  }
+   
+  }
+}
+
+export default  App;
