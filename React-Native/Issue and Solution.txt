@@ -2,3 +2,23 @@ native-base 2.8.2> onward issue
 
 always install
 npm i native-base@2.8.2
+npm i native-base@2.8.2 --save
+npm install @expo/vector-icons --save
+
+
+
+coding in App.Js ()
+
+state = {
+    fontLoaded: false,
+  };
+  async componentWillMount() {
+    await Expo.Font.loadAsync({
+      'Roboto': require('native-base/Fonts/Roboto.ttf'),
+      'Roboto_medium': require('native-base/Fonts/Roboto_medium.ttf'),
+    });
+
+    this.setState({ fontLoaded: true });
+  }
+
+
