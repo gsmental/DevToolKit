@@ -7,3 +7,9 @@ IIS
 SSLSettings>RequiredSSL>enabled
 
 
+
+
+how to redirect on default https :
+https://docs.microsoft.com/en-us/iis/configuration/system.webserver/httpredirect/
+
+
