@@ -22,6 +22,7 @@
 
 
 # Ebooks/PDFs
+* https://goalkicker.com/ Programming Notes for Professionals books
 * http://it-ebooks.info
 * http://ebook-dl.com/
 * www.ebook777.com
