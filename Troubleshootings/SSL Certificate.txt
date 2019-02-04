@@ -1,15 +1,25 @@
-https://www.c-sharpcorner.com/article/how-to-enable-https-on-your-website-for-free/
-https://github.com/PKISharp/win-acme/releases
 
 
-IIS
-
-SSLSettings>RequiredSSL>enabled
-
-
+ignore import and export on videos
+https://www.youtube.com/watch?v=gmxoC7HkylE&t=675s
+https://www.youtube.com/watch?v=oriQyM9NMUY
 
 
-how to redirect on default https :
-https://docs.microsoft.com/en-us/iis/configuration/system.webserver/httpredirect/
+download url-rewrite
+https://www.microsoft.com/en-us/download/details.aspx?id=47337
 
 
+
+<system.webServer>
+<rewrite>
+	<rules>
+		<rule name="Redirect to http" enabled="true" patternSyntax="Wildcard" stopProcessing="true">
+			<match url="*" negate="false" />
+			<conditions logicalGrouping="MatchAny">
+				<add input="{HTTPS}" pattern="off" />
+			</conditions>
+			<action type="Redirect" url="https://{HTTP_HOST}{REQUEST_URI}" redirectType="Found" />
+		</rule>
+	</rules>
+</rewrite>
+</system.webServer>
