@@ -8,6 +8,8 @@ https://www.youtube.com/watch?v=oriQyM9NMUY
 download url-rewrite
 https://www.microsoft.com/en-us/download/details.aspx?id=47337
 
+https://blogs.technet.microsoft.com/dawiese/2016/06/07/redirect-from-http-to-https-using-the-iis-url-rewrite-module/
+
 
 
 <system.webServer>
