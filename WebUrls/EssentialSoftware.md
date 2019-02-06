@@ -8,5 +8,8 @@
   
   * Nodejs
     *  https://nwjs.io/ node-webkit
+    
+### Setup Maker
+  * http://www.jrsoftware.org/isinfo.php Inno Setup 
    
   
