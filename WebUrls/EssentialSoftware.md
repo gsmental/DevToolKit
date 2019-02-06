@@ -4,5 +4,5 @@
 *   https://anydesk.com/
 
 # Development Tools
-  ## https://www.ghostscript.com/ Ghost Script
+  * https://www.ghostscript.com/ Ghost Script
   
