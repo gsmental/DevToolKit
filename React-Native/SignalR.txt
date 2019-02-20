@@ -1,0 +1,7 @@
+failed to start the transport 'websockets': null
+
+solution
+https://github.com/aspnet/AspNetCore/issues/6565
+Install IIS>WebServer>Application Development>WebSocket Protocol
+
+
