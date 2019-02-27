@@ -1,0 +1,11 @@
+https://www.journaldev.com/9333/android-webview-example-tutorial
+http://www.java2s.com/Open-Source/Android_Free_Code/UI/component/im_delight_android_webviewAdvancedWebView_java.htm
+https://www.youtube.com/watch?v=1B0nBw41y2c
+http://rapidprogrammer.com/android-how-to-call-native-java-methods-from-webview-javascript
+http://hongchaozhang.github.io/GitBlogs/code/2015/07/28/Communication-between-WebView-and-native-android.html
+
+
+best example
+https://droidmentor.com/bind-javascript-to-android/
+
+
