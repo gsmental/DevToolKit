@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/39760172/you-have-not-accepted-the-license-agreements-of-the-following-sdk-components
+
+
+Go to the location of your sdkmanager.bat file. Per default it is at Android\sdk\tools\bin inside the %LOCALAPPDATA% folder.
+
+Open a terminal window there by typing cmd into the title bar
+
+Type
+
+sdkmanager.bat --licenses
+Accept all licenses with 'y
