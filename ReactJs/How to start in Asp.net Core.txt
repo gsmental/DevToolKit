@@ -1,0 +1,9 @@
+
+https://www.talkingdotnet.com/create-react-app-visual-studio-2017-and-asp-net-core-2-2/
+
+nuget
+Microsoft.AspNetCore.SpaServices
+https://www.nuget.org/packages/Microsoft.AspNetCore.SpaServices/
+
+startup.cs
+using Microsoft.AspNetCore.SpaServices.ReactDevelopmentServer;
