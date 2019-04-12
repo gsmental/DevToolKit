@@ -60,6 +60,7 @@
 
 # Images/Icons
 * https://pixabay.com - hd photos best photos
+* http://www.pexels.comhd photos best photos
 * https://search.creativecommons.org/
 * https://www.pexels.com/photo-license/
 * https://www.flickr.com/creativecommons
