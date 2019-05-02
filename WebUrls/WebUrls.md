@@ -60,6 +60,7 @@
 
 # Images/Icons
 * https://allthefreestock.com/
+*https://all-free-download.com
 * https://pixabay.com - hd photos best photos
 * http://www.pexels.comhd photos best photos
 * https://search.creativecommons.org/
