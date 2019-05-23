@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/@aspnet/signalr
+
 failed to start the transport 'websockets': null
 
 solution
