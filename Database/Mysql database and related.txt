@@ -1,0 +1,7 @@
+software
+Webyog SQLyog Ultimate	--Create Backup and Restore
+HeidiSQL
+
+http://insidemysql.com/mysql-connector-net-for-net-core-1-0/
+http://dotnetthoughts.net/using-mysql-in-aspnet-core/
+https://www.nuget.org/packages/MySql.Data.EntityFrameworkCore/
