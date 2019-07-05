@@ -25,7 +25,7 @@
 * https://goalkicker.com/ Programming Notes for Professionals books
 * http://it-ebooks.info
 * http://ebook-dl.com/
-* www.ebook777.com
+* http://www.ebook777.com
 * http://www.allitebooks.com/
 * http://www.pdfdownloadzone.com/
 * https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
@@ -47,7 +47,8 @@
 
 
 # Movies
-*https://www.real.discount/
+*https://moviekidunia.in
+* https://www.real.discount/
 * https://movie4me.org/index.php
 * https://hdonline.is/ Live movies 
 * http://www.hdtorrentfilms.com/
@@ -60,7 +61,7 @@
 
 # Images/Icons
 * https://allthefreestock.com/
-*https://all-free-download.com
+* https://all-free-download.com
 * https://pixabay.com - hd photos best photos
 * http://www.pexels.comhd photos best photos
 * https://search.creativecommons.org/
