@@ -1,3 +1,7 @@
+## VS Code usefull Extensions
+ * https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native
+
+
 
 # Books related to .Net Technology
  *  https://www.microsoft.com/net/learn/architecture  a greate resource related to Xamarin,Webapi, Mobile and other video/books
