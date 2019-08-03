@@ -46,8 +46,9 @@
 
 
 
-# Movies
-*https://moviekidunia.in
+# Movies/TV Series
+*https://tvseries.cc
+* https://moviekidunia.in
 * https://www.real.discount/
 * https://movie4me.org/index.php
 * https://hdonline.is/ Live movies 
