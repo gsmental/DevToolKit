@@ -48,6 +48,7 @@
 
 # Movies/TV Series
 * https://tvseries.cc
+*https://rdxhd.red/
 * https://moviekidunia.in
 * https://www.real.discount/
 * https://movie4me.org/index.php
