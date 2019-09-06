@@ -6,6 +6,7 @@
 * https://nulledpremium.com
 * https://www.freecoursesonline.me/?1
 * https://downloadly.ir
+* https://myfreecourses.com/
 
 
 
