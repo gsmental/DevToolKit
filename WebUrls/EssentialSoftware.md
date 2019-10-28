@@ -19,4 +19,8 @@
   * https://razorsql.com/ RazorSQL - Query, Edit, Browse, and Manage Databases
   * http://www.schematrix.com/products/schemacoder/default.aspx Powerful Data Access Layer Code Generation For .NET
   * *https://www.vlsoftware.net/exportizer/index.html Exportizer is a free database export tool. It allows to browse, edit, and export  data to file, clipboard, or printer.
-  *
+  * DbVisualizer
+  * Devart dbForge Studio for SQL Server
+  * Excel.Convert.File.To.SQL.Statements 
+  * JenaSoft.DatAdmin 
+  * MS.Access.Create.and.Execute.SQL.Queries.Software.v 
