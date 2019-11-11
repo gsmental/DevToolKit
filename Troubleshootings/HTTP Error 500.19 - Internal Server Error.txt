@@ -8,3 +8,5 @@ To:
 <section name="handlers" overrideModeDefault="Allow" />
 
 
+/// Install SSL redirecting (if required
+https://github.com/gsmental/DevToolKit/blob/master/Troubleshootings/SSL%20Certificate.txt
