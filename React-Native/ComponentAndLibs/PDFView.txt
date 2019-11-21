@@ -5,6 +5,7 @@ npm install rn-fetch-blob --save
 npm install react-native-pdf --save
 
 https://github.com/wonday/react-native-pdf/#Example
+https://github.com/wonday/react-native-pdf/blob/master/example/PDFExample.js
 
 If you use RN 0.59.0 and above, please add following to your android/app/build.gradle**
 
