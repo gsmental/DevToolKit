@@ -1,5 +1,8 @@
 npm install --save realm
 
+Node 8 and 10 are supported.
+Linux, macOS, and Windows 8 (and later) are supported.
+
 
 there is no need to manually linking.
 https://realm.io/docs/javascript/latest/#getting-help
