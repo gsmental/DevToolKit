@@ -1,0 +1,5 @@
+npm install --save realm
+
+
+there is no need to manually linking.
+https://realm.io/docs/javascript/latest/#getting-help
