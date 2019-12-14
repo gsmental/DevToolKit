@@ -56,6 +56,7 @@
 
 
 # Movies/TV Series
+*1337x.to, 1337x.st, x1337x.ws, x1337x.eu, x1337x.se, 1337x.is , 1337x.gd
 * https://tvseries.cc
 * https://rdxhd.red/
 * https://moviekidunia.in
