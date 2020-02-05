@@ -1,0 +1,19 @@
+npm i react-native-vector-icons
+
+
+
+
+
+in case after these options, it start creatting error in projects, after runing projects, delete below lines, project will start working automatecally
+
+Edit android/app/build.gradle ( NOT android/build.gradle ) and add the following:
+
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+To customize the files being copied, add the following instead:
+
+project.ext.vectoricons = [
+    iconFontNames: [ 'MaterialIcons.ttf', 'EvilIcons.ttf' ] // Name of the font files you want to copy
+]
+ 
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+
