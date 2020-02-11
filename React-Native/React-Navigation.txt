@@ -1,0 +1,18 @@
+Navigation will not PUSH next component without a function  (not use componentDidMount)
+
+
+npm i @react-navigation/native
+                                             
+npm install react-native-reanimated 
+npm i react-native-gesture-handler@1.5.3
+npm install  react-native-screens 
+npm install react-native-safe-area-context 
+npm install @react-native-community/masked-view    
+
+
+npm i @react-navigation/stack
+
+
+
+
+         
