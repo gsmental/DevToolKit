@@ -1,0 +1,36 @@
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+using System;
+using System.IO;
+
+//Original PDF
+string FileLocation = Server.MapPath("~/Upload/StudentDocs/TestPDFFle.pdf");
+            
+//WaterMark Png file            
+string WatermarkLocation = Server.MapPath("~/UniStamps/TestiStamp.png");
+
+Document document = new Document();
+PdfReader pdfReader = new PdfReader(FileLocation);
+PdfStamper stamp = new PdfStamper(pdfReader, new FileStream(FileLocation.Replace(".pdf", "[temp][file].pdf"), FileMode.Create));
+
+//Image postion in PDF 
+iTextSharp.text.Image img = iTextSharp.text.Image.GetInstance(WatermarkLocation);
+img.SetAbsolutePosition(125, 300); // set the position in the document where you want the watermark to appear (0,0 = bottom left corner of the page)
+
+
+
+PdfContentByte waterMark;
+for (int page = 1; page <= pdfReader.NumberOfPages; page++)
+{
+waterMark = stamp.GetOverContent(page);
+waterMark.AddImage(img);
+}
+stamp.FormFlattening = true;
+stamp.Close();
+pdfReader.Close();
+
+
+// now delete the original file and rename the temp file to the original file
+File.Delete(FileLocation);
+//replace with original file Name
+File.Move(FileLocation.Replace(".pdf", "[temp][file].pdf"), FileLocation);
