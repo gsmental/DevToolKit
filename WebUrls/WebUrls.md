@@ -32,6 +32,7 @@
 
 
 # Ebooks/PDFs
+* https://b-ok.cc/  lacs books
 * https://goalkicker.com/ Programming Notes for Professionals books
 * http://it-ebooks.info
 * http://ebook-dl.com/
