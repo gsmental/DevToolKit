@@ -1,0 +1,5 @@
+if u are facing this issue
+
+While trying to resolve module `react-native-maps`
+
+npm install react-native-maps --save
