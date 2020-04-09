@@ -1,3 +1,13 @@
+//https://github.com/aspnet/AspNetCore/tree/master/src/SignalR/clients/ts/signalr
+//https://www.npmjs.com/package/@aspnet/signalr
+//failed to start the transport 'websockets': null
+
+//solution
+//https://github.com/aspnet/AspNetCore/issues/6565
+//Install IIS>WebServer>Application Development>WebSocket Protocol
+
+
+
 import React, { Component } from 'react';
 import { StyleSheet, Text, View, Alert, TextInput, Button, FlatList, List } from 'react-native';
 const SignalR = require("@aspnet/signalr");
