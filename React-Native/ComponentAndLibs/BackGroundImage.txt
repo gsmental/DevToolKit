@@ -1,0 +1,13 @@
+<ImageBackground source={{ uri: 'https://facebook.github.io/react/logo-og.png' }} style={{ width: '100%', height: '100%' }}>
+      <View style={styles.contentView}>
+
+
+
+        <TextInput placeholder="Enter Your Roll No." style={styles.loginInput}></TextInput>
+        <TextInput placeholder="Password" secureTextEntry style={styles.loginInput} placeholder="Enter Your Password" ></TextInput>
+        <View style={[{ width: "90%", margin: 10 }]}>
+          <Button title="Login" style={styles.loginButton}></Button>
+        </View>
+
+      </View>
+    </ImageBackground>
