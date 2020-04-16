@@ -1,0 +1,19 @@
+ [WebMethod]
+    public static string GetQueryForDispatchRecieving(int queryNo)
+    {
+      //  JsonResponse jsonResponse = new JsonResponse();
+
+        var Obj = QueryForDispatchRecieving(queryNo);
+        //var abc = JsonConvert.DeserializeObject<DataTable>((Obj.data).ToString());
+        //return JsonConvert.SerializeObject(abc);
+
+
+        return Obj.data.ToString(); // Obj.Data is a Dynamic data Type
+    }
+
+
+
+
+var abd = JSON.parse(msg.d);
+console.log(abd[0].code); particular column 
+console.log(abd[0]); complete object
