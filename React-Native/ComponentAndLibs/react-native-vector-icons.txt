@@ -1,4 +1,4 @@
-npm i react-native-vector-icons
+npm install --save react-native-vector-icons
 
 
 
@@ -16,3 +16,7 @@ project.ext.vectoricons = [
 ]
  
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+
+
+android\app\src\main\assets\fonts
+
