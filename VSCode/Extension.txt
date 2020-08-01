@@ -1,1 +1,14 @@
-f
+Prettier
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+
+
+Material Icon Theme
+https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
+
+
+ES7 React/Redux/GraphQL/React-Native snippets
+https://vsmarketplacebadge.apphb.com/version-short/dsznajder.es7-react-js-snippets.svg
+
+
+
