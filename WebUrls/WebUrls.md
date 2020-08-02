@@ -25,6 +25,7 @@
 * http://git.ir  -- Software
 
 # Video tutorials
+* https://freecourseudemy.com/home/
 * https://www.freecoursesonline.me/
 * https://www.freetutorials.us
 * https://alison.com/
