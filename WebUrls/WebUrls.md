@@ -1,6 +1,9 @@
 # All Links
 * http://www.irdevelopers.com/
 * https://99udemy.com/
+* https://myfreecourses.com/
+* https://freecoursenow.com/?1
+* 
 * https://freetutorials.se
 * https://onehack.us
 * https://nulledpremium.com
