@@ -1,0 +1,71 @@
+--STEP 1 ENABLE BLOCKED PROCEDURE
+sp_configure 'show advanced options', 1
+
+GO
+RECONFIGURE;
+GO
+sp_configure 'Ole Automation Procedures', 1
+GO
+RECONFIGURE;
+GO
+sp_configure 'show advanced options', 1
+GO
+RECONFIGURE;
+
+
+
+----STEP 2 
+Add SystemAdmin rights to Master/concern database
+
+
+
+--- STEP 3
+
+USE master
+grant exec on sp_OACreate to PtuAdvancedUserX
+grant exec on sp_OAGetErrorInfo to PtuAdvancedUserX
+grant exec on sp_OAMethod to PtuAdvancedUserX
+grant exec on sp_OAGetProperty to PtuAdvancedUserX
+grant exec on sp_OADestroy to PtuAdvancedUserX
+
+
+
+
+
+
+ALTER FUNCTION [dbo].[fn_Qbank_SendSMSOrEmail]
+(
+	@Type VARCHAR(1),
+	@SMSSendTo varchar(max),
+	@Msg VARCHAR(max),
+	@EmailHeaderName VARCHAR(50),
+	@EmailTo VARCHAR(2000),
+	@EmailSubject VARCHAR(100),
+	@EmailContent VARCHAR(max)
+)
+RETURNS varchar(100)
+AS
+BEGIN
+	-- Declare the return variable here
+	 DECLARE @win int
+    DECLARE @hr  int
+    DECLARE @text varchar(8000)
+	Declare  @url varchar(8000)
+
+		SET @url   ='http://website.com/?paramer=1'   
+ EXEC @hr=sp_OACreate 'WinHttp.WinHttpRequest.5.1',@win OUT
+    IF @hr <> 0 EXEC sp_OAGetErrorInfo @win
+
+ 
+
+    EXEC @hr=sp_OAMethod @win, 'Open',NULL,'GET',@url,'false'
+    IF @hr <> 0 EXEC sp_OAGetErrorInfo @win
+
+    EXEC @hr=sp_OAMethod @win,'Send'
+    IF @hr <> 0 EXEC sp_OAGetErrorInfo @win
+
+    EXEC @hr=sp_OAGetProperty @win,'ResponseText',@text OUTPUT
+    IF @hr <> 0 EXEC sp_OAGetErrorInfo @win
+
+    EXEC @hr=sp_OADestroy @win
+    IF @hr <> 0 EXEC sp_OAGetErrorInfo @win
