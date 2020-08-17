@@ -1,0 +1,1 @@
+to change Class to ClassName (select Class then Ctrl_D)
