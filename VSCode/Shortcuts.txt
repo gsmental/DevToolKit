@@ -1,1 +1,1 @@
-to change Class to ClassName (select Class then Ctrl_D)
+to change all values of same content like  Class to ClassName (select Class then Ctrl_D)
