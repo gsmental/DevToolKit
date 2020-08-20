@@ -17,10 +17,17 @@
 * https://www.npmjs.com/package/yup 
 * https://www.npmjs.com/package/common-tags
 * common-tags
+* https://www.npmjs.com/package/react-popper
+
+
 
 
 ### Data Entry / Forms/
 * https://formik.org/ 
+* https://www.npmjs.com/package/react-infinite-scroller
+* https://www.npmjs.com/package/react-numeric-input
+* https://www.npmjs.com/package/react-tagsinput
+* 
 
 ### Barcode/QR  Barcode
 * https://www.npmjs.com/package/@zxing/library
@@ -31,4 +38,9 @@
 * https://www.npmjs.com/package/file-loader
 
 
-* 
+### react utility
+* https://www.npmjs.com/package/react-immutable-proptypes
+* https://www.npmjs.com/package/react-onclickoutside
+* https://www.npmjs.com/package/google-map-react
+
+
