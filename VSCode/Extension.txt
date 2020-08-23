@@ -15,4 +15,5 @@ Improve your code commenting by annotating with alert, informational, TODOs, and
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 
 
-
+Redux DevTools - Chrome Web Store
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
