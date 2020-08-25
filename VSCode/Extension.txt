@@ -21,3 +21,15 @@ https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfk
 
 Bracket Pair Colorizer 2
 https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+
+
+Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
+
+
+https://marketplace.visualstudio.com/items?itemName=humao.rest-client
+https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+https://docs.emmet.io/abbreviations/syntax/
+
+
