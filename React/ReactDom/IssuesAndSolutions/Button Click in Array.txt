@@ -1,0 +1,22 @@
+
+ Function component
+
+
+function handleRemove(id) {
+    console.log(id);
+    // remove item
+  }
+
+
+const ConnectedList = ({ articles }) => (
+  <ol>
+    {articles.map((el) => (
+      <li key={el.id}>
+        {el.title}
+        <button type="button" onClick={() => handleRemove(el.title)}>
+            Remove
+          </button>
+      </li>
+    ))}
+  </ol>
+);
