@@ -40,6 +40,7 @@
 * https://www.npmjs.com/package/react-numeric-input
 * https://www.npmjs.com/package/react-tagsinput
 * https://www.npmjs.com/package/react-select   --- v.good drop-down
+* https://www.npmjs.com/package/draft-js  Text Editor By Facebook
 
 
 ### Barcode/QR  Barcode
