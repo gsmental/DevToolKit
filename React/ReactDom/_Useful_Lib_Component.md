@@ -1,8 +1,7 @@
 ## UI* 
 
  ### Drage and Drop component/Files/text.values
- * https://www.npmjs.com/package/react-dnd drage drom files and content 
- * https://www.npmjs.com/package/react-dnd
+* https://www.npmjs.com/package/react-beautiful-dnd  --- v.good Drage Drop list beautifull library
 
 
 ### Date/Time/Schedule/Calender
@@ -40,6 +39,7 @@
 * https://www.npmjs.com/package/react-numeric-input
 * https://www.npmjs.com/package/react-tagsinput
 * https://www.npmjs.com/package/react-select   --- v.good drop-down
+
 
 ### Barcode/QR  Barcode
 * https://www.npmjs.com/package/@zxing/library
