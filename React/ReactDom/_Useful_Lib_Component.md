@@ -49,6 +49,7 @@
 
 ### slider
 * https://www.npmjs.com/package/react-awesome-slider for totapp
+* https://naver.github.io/egjs-flicking/
 
 
 ### Graph/Chart/Map/Animation
