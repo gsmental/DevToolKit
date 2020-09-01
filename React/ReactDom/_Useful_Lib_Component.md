@@ -41,6 +41,7 @@
 * https://www.npmjs.com/package/react-tagsinput
 * https://www.npmjs.com/package/react-select   --- v.good drop-down
 * https://www.npmjs.com/package/draft-js  Text Editor By Facebook
+* https://www.npmjs.com/package/uppy file Uploader with many features
 
 
 ### Barcode/QR  Barcode
