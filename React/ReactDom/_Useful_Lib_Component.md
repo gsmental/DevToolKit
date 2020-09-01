@@ -47,6 +47,9 @@
 ### Barcode/QR  Barcode
 * https://www.npmjs.com/package/@zxing/library
 
+### slider
+* https://www.npmjs.com/package/react-awesome-slider for totapp
+
 
 ### Graph/Chart/Map/Animation
 * https://www.npmjs.com/package/d3
