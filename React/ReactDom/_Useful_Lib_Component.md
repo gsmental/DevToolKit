@@ -9,8 +9,8 @@
 * https://www.npmjs.com/package/luxon
 * https://fullcalendar.io/#demos
 * https://www.npmjs.com/package/date-fns
-* https://www.npmjs.com/package/react-date-picker
 * https://www.npmjs.com/package/react-dates  1.2M/M
+* https://www.npmjs.com/package/react-datepicker  2.5M/M
 
 
 
