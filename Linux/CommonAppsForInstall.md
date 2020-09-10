@@ -2,7 +2,7 @@
 * Skype
 * Postman
 * FileZilla
-* VC Player
+* VLC Player
 * vscode
 * Opera
 
