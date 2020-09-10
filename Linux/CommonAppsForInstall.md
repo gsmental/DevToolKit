@@ -1,4 +1,4 @@
-## https://snapcraft.io/
+## https://snapcraft.io/ or (snap install skype postman)
 * Skype
 * Postman
 
