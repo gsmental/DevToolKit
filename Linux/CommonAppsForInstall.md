@@ -5,6 +5,7 @@
 * VLC Player
 * vscode
 * Opera
+* Telegram
 
 
 ## Terminal (sudo dpkg -i package_file.deb)
