@@ -15,3 +15,6 @@
 * AnyDesk https://anydesk.com/en/downloads/linux
 * Google Chrome https://www.google.com/chrome/index.html
 * FreeDownloadManager FDM https://www.freedownloadmanager.org/download-fdm-for-linux.htm
+
+## usefull app list
+https://itsfoss.com/best-ubuntu-apps/
