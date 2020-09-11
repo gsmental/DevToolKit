@@ -5,8 +5,8 @@
 * snap install vlc
 * snap install vscode --classic
 * snap install opera
-snap install gimp
-* snap install telegram
+* snap install gimp
+* snap install telegram-desktop
 
 
 ## Terminal (sudo dpkg -i package_file.deb)
