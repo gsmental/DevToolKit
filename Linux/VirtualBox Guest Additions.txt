@@ -1,0 +1,11 @@
+if there is any erro during installation of Guest Additions on Win10
+
+I ran into this problem today when I installed Guest Additions on Win10.
+
+First time, I ran it install program, Win10 exited without any prompt.
+Next time, I rebooted Win10 and ran it again, the error 0xE0000301 appeared.
+
+I noticed "C:\WINDOWS\System32\DriverStore\FileRepository\vboxguest.inf_amd64_7d6b0354e22c6675\vboxguest.inf" had problem and opened it with a binary editor, it's completely filled with 0x00 at all. This is the problem.
+
+I deleted the folder(C:\WINDOWS\System32\DriverStore\FileRepository\vboxguest.inf_amd64_7d6b0354e22c6675) and opened the folder "C:\Program Files\Oracle\VirtualBox Guest Additions", then
+used right-click "vboxguest.inf" to run the install from the pop-menu. it installed ok. and reinstall the Guest Additions, everything is normal. PERFECT!!!
