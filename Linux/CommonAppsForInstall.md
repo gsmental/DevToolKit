@@ -1,5 +1,5 @@
 ## https://snapcraft.io/ or (snap install skype postman)
-* Skype
+* snap install skype --classic
 * Postman
 * FileZilla
 * VLC Player
