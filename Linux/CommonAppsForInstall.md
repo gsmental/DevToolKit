@@ -7,7 +7,7 @@
 * snap install opera
 * snap install gimp
 * snap install telegram-desktop
-snap install node --classic
+* snap install node --classic
 
 ## Terminal (sudo dpkg -i package_file.deb)
 * AnyDesk https://anydesk.com/en/downloads/linux
