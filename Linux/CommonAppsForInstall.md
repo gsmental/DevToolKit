@@ -1,11 +1,11 @@
 ## https://snapcraft.io/ or (snap install skype postman)
 * snap install skype --classic
-* Postman
-* FileZilla
-* VLC Player
-* vscode
-* Opera
-* Telegram
+* snap install postman
+* snap install filezilla
+* snap install vlc
+* snap install vscode --classic
+* snap install opera
+* snap install telegram
 
 
 ## Terminal (sudo dpkg -i package_file.deb)
