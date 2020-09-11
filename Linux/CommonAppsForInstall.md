@@ -5,6 +5,7 @@
 * snap install vlc
 * snap install vscode --classic
 * snap install opera
+snap install gimp
 * snap install telegram
 
 
