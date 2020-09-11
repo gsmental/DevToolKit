@@ -10,6 +10,8 @@
 * snap install node --classic
 * snap install thunderbird
 * snap install rambox -- all ine one app for many social apps like whatsapp,skype,slack,gmail,dropbox
+* snap install zoom-client
+* 
 
 ## Terminal (sudo dpkg -i package_file.deb)
 * AnyDesk https://anydesk.com/en/downloads/linux
@@ -18,3 +20,5 @@
 
 ## usefull app list
 https://itsfoss.com/best-ubuntu-apps/
+
+
