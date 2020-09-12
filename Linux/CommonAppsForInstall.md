@@ -19,6 +19,19 @@
 * FreeDownloadManager FDM https://www.freedownloadmanager.org/download-fdm-for-linux.htm
 * Azure Data Studio https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio 
 
+
+
+
+## Dotnet SDK Installation
+#### Ubuntu Installation 20.4 https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
+* wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+* sudo dpkg -i packages-microsoft-prod.deb
+* sudo apt-get update; \
+  sudo apt-get install -y apt-transport-https && \
+  sudo apt-get update && \
+  sudo apt-get install -y dotnet-sdk-3.1
+
+
 ## usefull app list
 https://itsfoss.com/best-ubuntu-apps/
 
