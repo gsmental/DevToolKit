@@ -20,7 +20,12 @@
 * VSCode https://code.visualstudio.com/download#  **(dont use snap)**
 
 
-
+## Terminal (in Other mode)
+* git https://code.visualstudio.com/download#
+  * apt-get install git
+  * add-apt-repository ppa:git-core/ppa
+  * apt update; apt install git
+  
 
 ## Dotnet SDK Installation
 #### Ubuntu Installation 20.4 https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu
