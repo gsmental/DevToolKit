@@ -17,6 +17,7 @@
 * AnyDesk https://anydesk.com/en/downloads/linux
 * Google Chrome https://www.google.com/chrome/index.html
 * FreeDownloadManager FDM https://www.freedownloadmanager.org/download-fdm-for-linux.htm
+* Azure Data Studio https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio 
 
 ## usefull app list
 https://itsfoss.com/best-ubuntu-apps/
