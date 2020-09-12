@@ -3,7 +3,6 @@
 * snap install postman
 * snap install filezilla
 * snap install vlc
-* snap install vscode --classic
 * snap install opera
 * snap install gimp
 * snap install telegram-desktop
@@ -18,6 +17,7 @@
 * Google Chrome https://www.google.com/chrome/index.html
 * FreeDownloadManager FDM https://www.freedownloadmanager.org/download-fdm-for-linux.htm
 * Azure Data Studio https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio 
+* VSCode https://code.visualstudio.com/download#  **(dont use snap)**
 
 
 
