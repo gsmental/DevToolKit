@@ -12,3 +12,5 @@ sudo apt-add-repository 'deb https://download.mono-project.com/repo/ubuntu stabl
 sudo apt install mono-complete 
 mono --version
 sudo apt install monodevelop
+
+in case of error during build, delete bin/obj from all projects. in nutshell, it add nuget and other paths according to OS
