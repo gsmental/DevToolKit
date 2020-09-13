@@ -30,6 +30,8 @@
 * winamp
 * Microsoft Office 2007
 * SQL Backup and FTP
+* Reduce PDF Size
+* TTFA PDF Page Counter
  
 
 ## Dotnet SDK Installation
