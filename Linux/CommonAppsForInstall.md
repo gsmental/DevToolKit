@@ -25,11 +25,11 @@
   * add-apt-repository ppa:git-core/ppa
   * apt update; apt install git
   
-  
-  ## Wine
-  * winamp
-  * Microsoft Office 2007
- * SQL Backup and FTP
+
+## Wine
+* winamp
+* Microsoft Office 2007
+* SQL Backup and FTP
  
 
 ## Dotnet SDK Installation
