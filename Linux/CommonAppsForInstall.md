@@ -20,10 +20,14 @@
 
 
 ## Terminal (in Other mode)
-* git https://code.visualstudio.com/download#
+##### git https://code.visualstudio.com/download#
   * apt-get install git
   * add-apt-repository ppa:git-core/ppa
   * apt update; apt install git
+##### JDK/JRE
+ *  type java in terminal, if not install it will give you complete instalation text, copy and paste in terminal
+
+  
   
 
 ## Wine
