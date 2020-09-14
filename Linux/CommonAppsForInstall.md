@@ -20,7 +20,7 @@
 
 
 ## Terminal (in Other mode)
-##### git https://code.visualstudio.com/download#
+##### git https://git-scm.com/downloads
   * apt-get install git
   * add-apt-repository ppa:git-core/ppa
   * apt update; apt install git
