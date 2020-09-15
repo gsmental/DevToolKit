@@ -17,6 +17,7 @@
 * FreeDownloadManager FDM https://www.freedownloadmanager.org/download-fdm-for-linux.htm
 * Azure Data Studio https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio 
 * VSCode https://code.visualstudio.com/download#  **(dont use snap)**
+* DBeaver https://dbeaver.io/download/
 
 
 ## Terminal (in Other mode)
