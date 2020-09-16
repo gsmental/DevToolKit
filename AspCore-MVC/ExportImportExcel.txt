@@ -1,5 +1,0 @@
-https://www.nuget.org/packages/NPOI/
-
-https://gist.github.com/johnsonz/368a42a4f52fb94620dc253e699e589b export
-
-https://stackoverflow.com/questions/13333413/export-excel-to-datatable-using-npoi  import
