@@ -1,3 +1,0 @@
- @Html.TextBox("CityTitle", "", new {@Value= Model.CityTitle, @class = "form-control required", @type = "text", @autocomplete = "off", @placeholder = "type City" })
- 
- 
