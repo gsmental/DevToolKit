@@ -1,7 +1,8 @@
+
+VSCode extension 
+
 Prettier
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-
 
 vscode-icons
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
@@ -9,18 +10,12 @@ https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-ico
 Material Icon Theme
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
-
-
 ES7 React/Redux/GraphQL/React-Native snippets
 https://vsmarketplacebadge.apphb.com/version-short/dsznajder.es7-react-js-snippets.svg
 
 
 Better Comments (Improve your code commenting by annotating with alert, informational, TODOs, and more)
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments 
-
-
-Redux DevTools - Chrome Web Store
-https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
 
 
 Bracket Pair Colorizer 2
@@ -31,9 +26,15 @@ auto-rename-tag  (Automatically rename paired HTML/XML tag, same as Visual Studi
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
 
-
 https://marketplace.visualstudio.com/items?itemName=humao.rest-client
-https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
-https://docs.emmet.io/abbreviations/syntax/
+CSS Peek - https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+
+
+-------------Other-------------
+Redux DevTools - Chrome Web Store
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd
+
+
+emmet- https://docs.emmet.io/abbreviations/syntax/
 
 
