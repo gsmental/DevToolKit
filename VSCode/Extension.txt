@@ -2,6 +2,10 @@ Prettier
 https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 
 
+
+vscode-icons
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+
 Material Icon Theme
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
