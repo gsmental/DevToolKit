@@ -14,6 +14,7 @@
 
 ## sodu apt install 
 * sudo apt install git
+* sudo apt install gnome-tweaks
 
 
 ## Terminal (sudo dpkg -i package_file.deb)
