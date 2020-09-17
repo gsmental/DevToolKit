@@ -27,7 +27,7 @@ Bracket Pair Colorizer 2
 https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
 
 
-Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+auto-rename-tag  (Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.)
 https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
 
 
