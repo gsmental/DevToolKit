@@ -11,6 +11,11 @@
 * snap install rambox -- all ine one app for many social apps like whatsapp,skype,slack,gmail,dropbox
 * snap install zoom-client
 
+
+## sodu apt install 
+* sudo apt install git
+
+
 ## Terminal (sudo dpkg -i package_file.deb)
 * AnyDesk https://anydesk.com/en/downloads/linux
 * Google Chrome https://www.google.com/chrome/index.html
