@@ -9,6 +9,6 @@
 
 ## Bit Bucket
 * paste  Public  string into bitbucket SSH 
-* **ssh -T git@bitbucket.org in** in terminal and press yes 
+* **ssh -T git@bitbucket.org** in in terminal and press yes 
 
 
