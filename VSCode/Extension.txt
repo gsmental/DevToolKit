@@ -15,8 +15,8 @@ ES7 React/Redux/GraphQL/React-Native snippets
 https://vsmarketplacebadge.apphb.com/version-short/dsznajder.es7-react-js-snippets.svg
 
 
-Improve your code commenting by annotating with alert, informational, TODOs, and more!
-https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+Better Comments (Improve your code commenting by annotating with alert, informational, TODOs, and more)
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments 
 
 
 Redux DevTools - Chrome Web Store
