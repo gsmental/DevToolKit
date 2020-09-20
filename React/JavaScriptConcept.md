@@ -6,6 +6,7 @@
 
 ## Object
 const person={
+
 name : "Gurpreet",
 walk(){},
 talk(){}
