@@ -20,3 +20,9 @@ person.name='new value';
 
 const targetMember='name';
 person[targetMember.value]='new value';
+
+
+## concat
+const first=[1,2,3,4];
+const second=[5,6,7];
+const combine=first.concat(second);   vs const combine =[...first,...second]
