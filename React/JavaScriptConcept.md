@@ -28,4 +28,5 @@ person[targetMember.value]='new value';
 * const combine=first.concat(second);   
 * const combine =[...first,...second]
 * const combine =['a',...first,...second,'c']
+* const clone=[...first]
 
