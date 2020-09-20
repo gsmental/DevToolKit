@@ -22,7 +22,10 @@ const targetMember='name';
 person[targetMember.value]='new value';
 
 
-## concat
+## concat vs spread operator
 * const first=[1,2,3,4];
 * const second=[5,6,7];
-* const combine=first.concat(second);   vs const combine =[...first,...second]
+* const combine=first.concat(second);   
+* const combine =[...first,...second]
+* const combine =['a',...first,...second,'c']
+
