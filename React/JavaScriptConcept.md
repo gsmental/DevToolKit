@@ -8,8 +8,11 @@
 const person={
 
 name : "Gurpreet",
+
 walk(){},
+
 talk(){}
+
 };
 
 person.talk();
