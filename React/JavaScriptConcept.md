@@ -4,7 +4,7 @@
 * **const** is read only and local variable
 
 
-##Object
+## Object
 const person={
 name : "Gurpreet",
 walk(){},
