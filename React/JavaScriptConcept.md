@@ -30,3 +30,7 @@ person[targetMember.value]='new value';
 * const combine =['a',...first,...second,'c']
 * const clone=[...first]
 
+
+## Import 
+* Default import  **import aa from ''**
+* Named Import **import {} from ''**
