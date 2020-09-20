@@ -32,5 +32,5 @@ person[targetMember.value]='new value';
 
 
 ## Import 
-* Default import  **import aa from ''**
-* Named Import **import {} from ''**
+* Default import  **import xx from ''**
+* Named Import **import {xx,xyz} from ''**
