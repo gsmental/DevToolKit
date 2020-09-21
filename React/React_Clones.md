@@ -1,6 +1,7 @@
 ## React Clones
 ### English
 * AMAZON Clone https://www.youtube.com/watch?v=1_IYL9ZMR_Y&t=2321s
+* Whatsapp Clone with MERN  https://www.youtube.com/watch?v=gzdQDxzW2Tw
 
 
 ### Hindi
