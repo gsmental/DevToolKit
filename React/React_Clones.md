@@ -3,6 +3,7 @@
 * AMAZON Clone https://www.youtube.com/watch?v=1_IYL9ZMR_Y&t=2321s
 * Whatsapp Clone with MERN  https://www.youtube.com/watch?v=gzdQDxzW2Tw
 * Facebook - https://www.youtube.com/watch?v=B-kxUMHBxNo
+* Tiktok - https://www.youtube.com/watch?v=GePLvNgWROg&t=9021s
 
 
 ### Hindi
