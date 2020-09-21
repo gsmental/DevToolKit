@@ -16,4 +16,5 @@
 * Instagrame Clone - https://www.youtube.com/watch?v=Hwz0wxybmzU
 * Google clone - https://www.youtube.com/watch?v=zrV6L7yfNr4
 * Routing with CRUD -  https://www.youtube.com/watch?v=eJyZ7k6lWfE
+* React Redux https://www.youtube.com/watch?v=X7Zop1c2gVI
 
