@@ -9,6 +9,7 @@
 * Instagram (Indian English) 10 hour  https://www.youtube.com/watch?v=dXv7-8k1dog
 * Whatsapp Web - https://www.youtube.com/watch?v=pUxrDcITyjg
 * Youtube - https://www.youtube.com/watch?v=NT299zIk2JY
+* Realtime Chat Application - Socket.io, Node.js https://www.youtube.com/watch?v=ZwFA3YMfkoc
 
 
 ### Hindi
