@@ -7,6 +7,7 @@
 * Netflix https://www.youtube.com/watch?v=XtMThy8QKqU
 * Spotify  https://www.youtube.com/watch?v=pnkuI8KXW_8
 * Instagram (Indian English) 10 hour  https://www.youtube.com/watch?v=dXv7-8k1dog
+* Whatsapp Web - https://www.youtube.com/watch?v=pUxrDcITyjg
 
 
 ### Hindi
