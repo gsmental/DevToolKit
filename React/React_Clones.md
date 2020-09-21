@@ -4,6 +4,7 @@
 * Whatsapp Clone with MERN  https://www.youtube.com/watch?v=gzdQDxzW2Tw
 * Facebook - https://www.youtube.com/watch?v=B-kxUMHBxNo
 * Tiktok - https://www.youtube.com/watch?v=GePLvNgWROg&t=9021s
+* Netflix https://www.youtube.com/watch?v=XtMThy8QKqU
 
 
 ### Hindi
