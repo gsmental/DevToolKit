@@ -5,6 +5,8 @@
 * Facebook - https://www.youtube.com/watch?v=B-kxUMHBxNo
 * Tiktok - https://www.youtube.com/watch?v=GePLvNgWROg&t=9021s
 * Netflix https://www.youtube.com/watch?v=XtMThy8QKqU
+* Spotify  https://www.youtube.com/watch?v=pnkuI8KXW_8
+* Instagram (Indian English) 10 hour  https://www.youtube.com/watch?v=dXv7-8k1dog
 
 
 ### Hindi
