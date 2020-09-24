@@ -1,0 +1,16 @@
+ public void ConfigureServices(IServiceCollection services)
+ 
+   services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                     .AllowAnyHeader()
+                        .AllowAnyMethod()
+                       );
+            });
+            
+            
+             public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+             
+             -- after userauthorization
+              app.UseCors("CorsPolicy");
