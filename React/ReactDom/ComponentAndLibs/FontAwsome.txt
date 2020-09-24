@@ -5,4 +5,4 @@
   
    <i class="fas fa-allergies"></i>
    
-   it is best option, send only solid icons are free
+   it is best option,  only solid icons are free
