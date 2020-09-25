@@ -1,0 +1,10 @@
+  handleKeyPress = (e) => {
+    if (e.key === 'Enter') {
+      this.handleLogin();
+    }
+  };
+  
+  <div
+        className="login-form panel panel-spaced-lg panel-shadowed panel-primary"
+        onKeyPress={this.handleKeyPress}
+      >
