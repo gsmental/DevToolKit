@@ -104,6 +104,7 @@
 
 # VPN (free)
 * https://windscribe.com/
+* Hotspot Shield
 * 
 # Disposable Email
 * http://www.yopmail.com/
