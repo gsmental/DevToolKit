@@ -54,6 +54,9 @@
 * https://www.npmjs.com/package/react-awesome-slider for totapp
 * https://naver.github.io/egjs-flicking/
 
+### PDF 
+* https://github.com/phuoc-ng/react-pdf-viewer
+
 
 ### Graph/Chart/Map/Animation
 * https://www.npmjs.com/package/d3
