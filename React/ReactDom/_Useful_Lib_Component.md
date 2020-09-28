@@ -24,7 +24,7 @@
 * https://www.npmjs.com/package/react-popper
 
 
-### Losder/Component Utility
+### Loader/Component Utility
 * https://www.npmjs.com/package/react-is-visible
 * https://www.npmjs.com/package/react-content-loader
 * https://www.npmjs.com/package/react-tooltip
@@ -56,6 +56,7 @@
 
 ### PDF 
 * https://github.com/phuoc-ng/react-pdf-viewer
+* https://github.com/wojtekmaj/react-pdf
 
 
 ### Graph/Chart/Map/Animation
