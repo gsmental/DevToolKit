@@ -34,6 +34,7 @@
 * https://www.npmjs.com/package/swr
 * https://www.npmjs.com/package/use-dark-mode
 * $ npm install react-loader-spinner --save
+* https://www.npmjs.com/package/react-loading-skeleton 
 
 ### Data Entry / Forms/
 * https://formik.org/ 
