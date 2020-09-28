@@ -43,6 +43,7 @@
 * https://www.npmjs.com/package/react-select   --- v.good drop-down
 * https://www.npmjs.com/package/draft-js  Text Editor By Facebook
 * https://www.npmjs.com/package/uppy file Uploader with many features
+* https://github.com/glortho/react-keydown keyboard keycode/ 
 
 
 ### Barcode/QR  Barcode
