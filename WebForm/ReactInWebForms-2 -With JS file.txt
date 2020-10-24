@@ -1,0 +1,27 @@
+ReactHelloWorld.js
+class StoryBox extends React.Component {
+    render() {
+        return (<div> Hello Wodjkllp[23opu3urbiul;3 </div>);
+    }
+}
+var target = document.getElementById('ReactPanel')
+ReactDOM.render(<StoryBox />,target)
+
+
+-- MasterPage Header
+<script crossorigin src="https://unpkg.com/react@16/umd/react.development.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js"
+    integrity="sha256-FiZMk1zgTeujzf/+vomWZGZ9r00+xnGvOgXoj0Jo1jA=" crossorigin="anonymous"></script>
+
+
+Patern -1 -- ?1500 will refresh js everytime
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+     <script src='<%=ResolveClientUrl("~/Upload/Temp/ReactHelloWorld.js?1500") %>' type="text/babel"></script>
+    <div id="ReactPanel"></div>
+</asp:Content>
+
+Patern -2 --?1500 will refresh js everytime
+LiteralControl javascriptRef = new LiteralControl("<script src='ReactHelloWorld.js?1500'  type='text/babel'>  </script>");
+Page.Header.Controls.Add(javascriptRef);
+
