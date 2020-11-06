@@ -7,3 +7,4 @@
 
 ## Web Series
 * Money heist
+* Ozark
