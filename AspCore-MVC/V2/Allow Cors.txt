@@ -1,6 +1,11 @@
- public void ConfigureServices(IServiceCollection services)
- 
-   services.AddCors(options =>
+   install nuget package
+   
+   Microsoft.AspNetCore.Cors
+   
+   public void ConfigureServices(IServiceCollection services)
+        {
+
+            services.AddCors(options =>
             {
                 options.AddPolicy("CorsPolicy",
                     builder => builder.AllowAnyOrigin()
@@ -10,7 +15,12 @@
             });
             
             
+            
+            
              public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
              
              -- after userauthorization
               app.UseCors("CorsPolicy");
+              
+              
+       
