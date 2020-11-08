@@ -1,6 +1,9 @@
+npm install @react-native-picker/picker --save
+
 import React, { Component } from 'react';
 import axios from 'axios';
 import Config from '../Constants/Config';
+import {Picker} from '@react-native-picker/picker';
 import {
 
     View,
@@ -10,7 +13,7 @@ import {
     TouchableOpacity,
     StyleSheet,
     Alert,
-    Image,Picker,
+    Image,
     ActivityIndicator,
     Button,
     
