@@ -1,0 +1,9 @@
+  public dynamic usp_PacketAssignByUni(DataTable dt, string Type, bool IsReAssign)
+        {
+            DynamicParameters parameter = new DynamicParameters();
+            parameter.Add("@dt", dt.AsTableValuedParameter()); //// this Datatable Parameter
+            parameter.Add("@Type", Type);
+            parameter.Add("@IsReAssign", IsReAssign);
+            var data = db_dapper.Query<dynamic>("usp_PacketAssignByUni", parameter, commandType: CommandType.StoredProcedure);
+            return data;
+        }
