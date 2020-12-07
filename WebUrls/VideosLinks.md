@@ -9,7 +9,13 @@
 * https://www.youtube.com/c/tutorialsEU/playlists  Unity, python, android, C#
 * https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA  Node, Js, React, Python
 * https://www.youtube.com/c/CodeWithHarry/playlists php, c, c++  java Data science
+* https://www.youtube.com/c/LearnLinuxtv/playlists Linux  and Other admin
+* https://www.youtube.com/channel/UCObs0kLIrDjX2LLSybqNaEA SQL, aws, pythong, google, ML,AI, DL, Data Science, react, js 
 
 
 ## Designing /UX/UI
 * https://www.youtube.com/c/DesignCourse/playlists mobile,video,Photoshop, 
+
+
+## Play Lists 
+* https://www.youtube.com/watch?v=1XP28xVToho&list=PLcDaXGnNU58bmEbkYNUHsrLMF6a_AqjF9  React Native UI/UX
