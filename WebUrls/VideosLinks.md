@@ -7,6 +7,8 @@
 * https://www.youtube.com/c/TheNetNinja/playlists JS, React, CSS, HTML,, Mobile,angular
 * https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ  Python, data-science, html, math
 * https://www.youtube.com/c/tutorialsEU/playlists  Unity, python, android, C#
+* https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA  Node, Js, React, Python
+* https://www.youtube.com/c/CodeWithHarry/playlists php, c, c++  java Data science
 
 
 ## Designing /UX/UI
