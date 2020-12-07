@@ -16,6 +16,9 @@
 * https://www.youtube.com/c/codedamn/  react-native, flutter,docker,
 * https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI AI demo with robot
 * https://www.youtube.com/c/TarunSharma7372 Js/angulatr/react/ES6,vue/node/ -- *Special JS/React*
+* https://www.youtube.com/c/ProgrammingKnowledge/   Angular, React, Redux, Nodejs, Web development, Docker, AWS, Vue JS, All about Javascript
+* https://www.youtube.com/channel/UCG9P9rJk6qP3mKgXR0E46hg React clone
+* https://www.youtube.com/c/CODERSNEVERQUIT  React, python, ML,AI, JS, mern , react-native, react-native, clone, 
 
 ## Designing /UX/UI
 * https://www.youtube.com/c/DesignCourse mobile,video,Photoshop, 
