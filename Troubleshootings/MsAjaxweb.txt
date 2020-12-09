@@ -1,0 +1,17 @@
+scripts/webforms/msajax/microsoftajax.js not foundType a message
+
+How to Remove MsAjaxweb or webform.js error
+
+1) Remove the following DLL from bin :
+AspNet.ScriptManager.jQuery.dll
+AspNet.ScriptManager.bootstrap.dll
+Microsoft.ScriptManager.MSAjax.dll
+Microsoft.ScriptManager.WebForms.dll
+
+Remove the Same Reference from packages.config
+
+Add the Following code in appsetting
+
+<appSettings>
+<add key="ValidationSettings:UnobtrusiveValidationMode" value="None" />
+</appSettings>
