@@ -15,15 +15,18 @@
 * https://www.youtube.com/c/CODERSNEVERQUIT react,react-native, 
 * https://www.youtube.com/c/codedamn/  react-native, flutter,docker,
 * https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI AI demo with robot
-* https://www.youtube.com/c/TarunSharma7372 Js/angulatr/react/ES6,vue/node/ -- *Special JS/React*
 * https://www.youtube.com/c/ProgrammingKnowledge/   Angular, React, Redux, Nodejs, Web development, Docker, AWS, Vue JS, All about Javascript
-* https://www.youtube.com/channel/UCG9P9rJk6qP3mKgXR0E46hg React clone
 * https://www.youtube.com/c/CODERSNEVERQUIT  React, python, ML,AI, JS, mern , react-native, react-native, clone, 
 
 ## Designing /UX/UI
 * https://www.youtube.com/c/DesignCourse mobile,video,Photoshop, 
 * https://www.youtube.com/channel/UCV_WksgYnQW0LpzhPAWgcxA react-Native UI/Ux
 
+
+## React (specially)
+* https://www.youtube.com/c/BrunoAntunesPT/
+* https://www.youtube.com/channel/UCG9P9rJk6qP3mKgXR0E46hg React clone
+* https://www.youtube.com/c/TarunSharma7372 Js/angulatr/react/ES6,vue/node/ -- *Special JS/React*
 
 ## Play Lists 
 * https://www.youtube.com/watch?v=1XP28xVToho&list=PLcDaXGnNU58bmEbkYNUHsrLMF6a_AqjF9  ByProgrammers React Native UI/UX
