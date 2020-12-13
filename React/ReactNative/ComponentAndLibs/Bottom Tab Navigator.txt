@@ -1,3 +1,5 @@
+https://reactnavigation.org/docs/tab-based-navigation
+
 
 npm install @react-navigation/bottom-tabs  (save)
 
@@ -7,6 +9,8 @@ import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 ### Tab navigation and it will be called in Main-Navigation
 
 const Tab = createBottomTabNavigator();
+
+// Simple Tab
 function MainTab() {
   return (
     // <Tab.Navigator tabBar={props => <TabBar {...props} />}>
@@ -17,6 +21,41 @@ function MainTab() {
     </Tab.Navigator>
   )
 }
+
+
+// Tab with Image icon
+function MainTab() {
+  return (
+    // <Tab.Navigator tabBar={props => <TabBar {...props} />}>
+    <Tab.Navigator initialRouteName="DashboardHome2" tabBarOptions={{
+      activeTintColor: 'tomato',
+      inactiveTintColor: 'gray',
+    }}>
+      <Tab.Screen
+        
+        name="DashboardHome"
+        component={DashboardHome}
+        options={{
+          title: 'Home',
+          //tabBarLabel: 'Homefdfdf',
+          tabBarIcon: () => (
+            <View>
+              <Image
+                style={{width: 100, height: 100, resizeMode: 'stretch'}}
+                source={MyConst.Image_AppLogoDarkBackground}></Image>
+            </View>
+          ),
+        }}
+      />
+      <Tab.Screen name="DashboardHome2" component={DashboardHome2} />
+      <Tab.Screen name="DashboardHome3" component={DashboardHome3} />
+    </Tab.Navigator>
+  );
+}
+
+
+
+
 
 
 ### Main navigation
