@@ -1,5 +1,6 @@
 https://reactnavigation.org/docs/tab-based-navigation
 
+https://snack.expo.io/@msbot01/tenacious-toffee         tab with icon
 
 npm install @react-navigation/bottom-tabs  (save)
 
