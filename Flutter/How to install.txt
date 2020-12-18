@@ -1,0 +1,4 @@
+https://flutter.dev/docs/get-started/install/windows
+
+C:\flutter\bin  --extract and set path 
+
