@@ -12,3 +12,6 @@ restart vs code to detect sdk kit
 
 create app
 flutter create helloapp
+
+click on start button
+first time it will take time
