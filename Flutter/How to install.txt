@@ -8,4 +8,6 @@ flutter doctor --android-licenses
 >> flutter
 >>flutter doctor
 
+restart vs code to detect sdk kit
+
 
