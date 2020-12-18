@@ -15,3 +15,16 @@ flutter create helloapp
 
 click on start button
 first time it will take time
+
+enable Windows
+flutter channel dev
+flutter upgrade
+
+flutter config --enable-windows-desktop
+ flutter config --enable-macos-desktop
+ flutter config --enable-linux-desktop
+ 
+ 
+ flutter run -d windows
+ flutter run -d macos
+ flutter run -d linux
