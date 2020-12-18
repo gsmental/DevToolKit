@@ -24,7 +24,10 @@ flutter config --enable-windows-desktop
  flutter config --enable-macos-desktop
  flutter config --enable-linux-desktop
  
+ flutter create .
  
  flutter run -d windows
  flutter run -d macos
  flutter run -d linux
+ 
+ 
