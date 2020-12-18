@@ -10,4 +10,5 @@ flutter doctor --android-licenses
 
 restart vs code to detect sdk kit
 
-
+create app
+flutter create helloapp
