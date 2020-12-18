@@ -4,7 +4,7 @@ C:\flutter\bin  --extract and set path
 
 run in cmd
 flutter doctor --android-licenses
+>> flutter
 >>flutter doctor
->>dart
 
 
