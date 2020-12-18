@@ -4,6 +4,7 @@ C:\flutter\bin  --extract and set path
 
 run in cmd
 flutter doctor --android-licenses
+>> install flutter extension in vs code
 >> flutter
 >>flutter doctor
 
