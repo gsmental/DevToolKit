@@ -35,3 +35,16 @@ flutter config --enable-windows-desktop
  flutter run -d linux
  
  
+ flutter build windows
+ flutter build macos
+ flutter build linux
+ 
+C:\Program Files\Common Files\microsoft shared\ClickToRun  -- copy these files
+msvcp140.dll
+vcruntime140.dll
+vcruntime140_1.dll
+ 
+ 
+ 
+ 
+ 
