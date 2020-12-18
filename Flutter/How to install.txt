@@ -17,6 +17,10 @@ click on start button
 first time it will take time
 
 enable Windows
+Visual Studio 2019 (not to be confused with Visual Studio Code) with the “Desktop development with C++” workload installed, including all of its default components
+
+
+
 flutter channel dev
 flutter upgrade
 
