@@ -20,4 +20,6 @@ app.listen(port, () => {
 
 ### MERN
 * npm i -s express body-parser cors mongoose dotenv
+* **Note :mongodb://localhost/dbName" if you type Port number in connection, sometime It did not responde but shows connect with db , so try it without port**
+
 
