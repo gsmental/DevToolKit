@@ -19,5 +19,5 @@ app.listen(port, () => {
 ```
 
 ### MERN
-* npm i -s express body-parser cors mongoose
+* npm i -s express body-parser cors mongoose dotenv
 
