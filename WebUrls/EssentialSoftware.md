@@ -5,6 +5,7 @@
 *   http://www.ammyy.com/en/
 *   https://www.teamviewer.com/en/download/windows/
 *   https://anydesk.com/
+*  [TMac] (https://technitium.com/tmac/) - free utility to change MAC address
 
 # Development Tools
   * https://www.ghostscript.com/ Ghost Script
