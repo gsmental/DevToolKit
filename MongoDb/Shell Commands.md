@@ -12,3 +12,4 @@
 | Mongo Command       | SQL Command     | Remarks    |
 | :------------- | :----------: | -----------: |
 |  db.flightData.find({flightName:”Air India”}) | SELECT * FROM flightData WHERE flightName='Air India   |     |
+| db.country.updateMany({countryName:{$ne:"India"}},{$set:{isActive:false}})|UPDATE country SET isActive=0 where countryName<>'India' |
