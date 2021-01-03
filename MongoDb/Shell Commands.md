@@ -13,3 +13,4 @@
 | :------------- | :----------: | -----------: |
 |  db.flightData.find({flightName:”Air India”}) | SELECT * FROM flightData WHERE flightName='Air India   |     |
 | db.country.updateMany({countryName:{$ne:"India"}},{$set:{isActive:false}})|UPDATE country SET isActive=0 where countryName<>'India' |
+| db.country.find({isActive:true}, { _id: 0 })|SELECT * FROM country WHERE isActive=1 |{ _id: 0 }  exclude particular column
