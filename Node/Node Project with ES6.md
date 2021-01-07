@@ -6,6 +6,7 @@
 * package.json  "type": "module"
 * scripts "start": "nodemon src/index.js --exec babel-node --presets babel-preset-env"
 
+### Simple express
 ```javascript
 // **src/index.js**
 import express from 'express';
@@ -20,7 +21,7 @@ app.listen(8099)
 console.log('app running on port ', 8099);
 ```
 
-
+### Mongodb Connection
 ```javascript
 // **src/index.js   Mongodb coonection**
 
