@@ -68,6 +68,25 @@ mongoose.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@im
     console.log("Mongo Error: " + JSON.stringify(err,undefined, 2));
   }
 });
+```
 
 
+### router Import
+```javascript
+//src/index.js  
+import SignUpController from './controllers/v1/SignUp/SignUpController';
+
+app.use('/api/v1/signup/',SignUpController);
+
+//SignUpController.js
+import express from "express";
+const SignUpController = express.Router();
+
+SignUpController.get("/countryList",  (req, res,next) => {
+  res.json('this is testing from controller');
+});
+export default SignUpController;
+
+//url
+http://localhost:8099/api/v1/signup/countryList
 ```
