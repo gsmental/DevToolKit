@@ -1,9 +1,12 @@
 * https://babeljs.io/en/setup#installation
 * npm init --yes
 * npm install express body-parser --save
-* npm install --save-dev @babel/core
+* npm install --save-dev @babel/core @babel/node @babel/preset-env -D 
 * npm install @babel/preset-env --save-dev
-* package.json  "type": "module"
+* npm i @babel/plugin-transform-runtime -D
+* npm i -g babel-node
+
+
 * scripts "start": "nodemon src/index.js --exec babel-node --presets babel-preset-env"
 
 ### Simple express
