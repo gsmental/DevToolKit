@@ -5,9 +5,15 @@
 * npm install @babel/preset-env --save-dev
 * npm i @babel/plugin-transform-runtime -D
 * npm i -g babel-node
+* scripts "start": "nodemon --exec babel-node --require dotenv/config src/index.js"
+* create file in root **.babelrc**
+```javascript
+{
+    "presets": ["@babel/preset-env"],
+    "plugins": ["@babel/plugin-transform-runtime"]
+}
+```
 
-
-* scripts "start": "nodemon src/index.js --exec babel-node --presets babel-preset-env"
 
 ### Simple express
 ```javascript
