@@ -1,9 +1,20 @@
-            DynamicParameters parameter = new DynamicParameters();
+          DynamicParameters parameter = new DynamicParameters();
             parameter.Add("@UserId", UserId);
             var data = db_dapper.QueryMultiple("usp_EvalBilliingEvaluatorBill", parameter, commandType: CommandType.StoredProcedure);
             var FirstSet = data.Read();
             var SecondSet = data.Read();
-            List<dynamic> MyDesiDataSet = new List<dynamic>();
-            MyDesiDataSet.Add(FirstSet);
-            MyDesiDataSet.Add(SecondSet);
-            return MyDesiDataSet;
+
+            MyDesiJugaad desiJugaad = new MyDesiJugaad();
+            desiJugaad.Obj1 = FirstSet;
+            desiJugaad.Obj2 = SecondSet;
+            return desiJugaad;
+
+
+
+
+
+  public class MyDesiJugaad
+        {
+            public dynamic Obj1 { get; set; }
+            public dynamic Obj2 { get; set; }
+        }
