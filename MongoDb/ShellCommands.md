@@ -15,3 +15,4 @@
 | db.country.updateMany({countryName:{$ne:"India"}},{$set:{isActive:false}})|UPDATE country SET isActive=0 where countryName<>'India' |
 | db.country.find({isActive:true}, { _id: 0 })|SELECT * FROM country WHERE isActive=1 |{ _id: 0 }  exclude particular column
 | db.stats()||statics related to database like database size,no views,no of tables etc. |
+| type of  db.flightData.findOne().flightName||to getting datatype of particular field/column |
