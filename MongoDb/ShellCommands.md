@@ -16,3 +16,4 @@
 | db.country.find({isActive:true}, { _id: 0 })|SELECT * FROM country WHERE isActive=1 |{ _id: 0 }  exclude particular column
 | db.stats()||statics related to database like database size,no views,no of tables etc. |
 | type of  db.flightData.findOne().flightName||to getting datatype of particular field/column |
+|db.country.update({},{$unset: {countryId: 1}}, {multi: true})| alter table country drop column countryId | drop field in collection, {multi-true} meaning from all rows|
