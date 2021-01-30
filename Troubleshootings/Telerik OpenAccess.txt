@@ -1,0 +1,17 @@
+OpenAccess nuget package and Cannot find resource EntitiesModel.rlinq embedded in assembly exception
+
+
+
+1. Unload the project containing your model and open the project file for editing.
+2. Enable xml mapping by adding true in the first PropertyGroup of the project file.
+For example:
+
+<?xml version="1.0" encoding="utf-8"?>
+<Project ...>
+  ...
+  <PropertyGroup>
+    ...
+    <UseXmlMapping>true</UseXmlMapping>
+  </PropertyGroup>
+  ...
+</Project>
