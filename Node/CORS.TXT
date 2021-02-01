@@ -1,0 +1,10 @@
+---Note-- always suse cors first and then add controller otherwise it will create CORS error on Post method when we pass token 
+   
+   step 1.
+   app.use(
+      cors()
+    );
+    
+    step 2.
+    app.use('/',v1MainRoot);
+    
