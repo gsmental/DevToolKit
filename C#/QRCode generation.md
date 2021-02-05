@@ -1,0 +1,52 @@
+  
+  ###creates image
+  //protected void GenerateBarcode(string MyGuidvalue, string FilePath)
+    //{
+    //    var qrValue = "http://www.ptuexam.com/ASheetConfirmedPaymentSlip.aspx?Guid=" + MyGuidvalue;
+    //    var barcodeWriter = new BarcodeWriter
+    //    {
+    //        Format = BarcodeFormat.QR_CODE,
+    //        Options = new EncodingOptions
+    //        {
+    //            Height = 110,
+    //            Width = 110,
+    //            Margin = 0
+    //        }
+    //    };
+
+    //    using (var bitmap = barcodeWriter.Write(qrValue))
+    //    using (var stream = new MemoryStream())
+    //    {
+    //        bitmap.Save(FilePath, ImageFormat.Jpeg);
+           
+    //    }
+    //}
+    
+    
+    ###creates bytes
+   var MyQRArray = GenerateBarcodeArray(MyGuid);
+
+ var Image1 = (Image)Repeater1.Items[0].FindControl("Image1");
+Image1.ImageUrl = "data:image;base64," + Convert.ToBase64String(MyQRArray);
+               
+     protected byte[] GenerateBarcodeArray(string MyGuidvalue)
+    {
+        var qrValue = "http://www.ptuexam.com/ASheetConfirmedPaymentSlip.aspx?Guid=" + MyGuidvalue;
+        var barcodeWriter = new BarcodeWriter
+        {
+            Format = BarcodeFormat.QR_CODE,
+            Options = new EncodingOptions
+            {
+                Height = 110,
+                Width = 110,
+                Margin = 0
+            }
+        };
+
+        using (var bitmap = barcodeWriter.Write(qrValue))
+        using (var stream = new MemoryStream())
+        {
+            bitmap.Save(stream, ImageFormat.Jpeg);
+            return stream.ToArray();
+        }
+    }
