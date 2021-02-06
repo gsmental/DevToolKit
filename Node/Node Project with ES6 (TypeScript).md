@@ -9,7 +9,9 @@
 * npm i -g babel-node
 * npm i typescript  
 * npm i @types/node
-*  Package.js scripts>> "start": "nodemon --exec babel-node --require dotenv/config extra/index.js"
+*  Package.js scripts>> 
+"start": "nodemon --exec babel-node --require dotenv/config extra/index.js",
+ "dev": "ts-nodemon src/index.ts"
 
 * create file in root **.babelrc**
 ```javascript
