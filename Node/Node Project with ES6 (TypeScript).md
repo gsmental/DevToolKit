@@ -126,6 +126,7 @@ npm start -- (anywhere terminal/command prompt)
 
 ### PostgreSQL
 * npm install pg
+* npm i --save-dev @types/pg
 
 
 
