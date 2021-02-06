@@ -1,7 +1,7 @@
 * npm i nodemon --g
 * https://babeljs.io/en/setup#installation
 * npm init --yes
-* npm install express body-parser --save
+* npm install express body-parser cors --save
 * npm i @types/express -d
 * npm install --save-dev @babel/core @babel/node @babel/preset-env -D 
 * npm install @babel/preset-env --save-dev
