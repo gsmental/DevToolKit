@@ -111,3 +111,7 @@ app.listen(8099)
 console.log('app running on port ', 8099);
 ```
  
+### Open Command prompt (not use in vs terminal)
+tsc -watch
+
+npm start -- (anywhere terminal/command prompt)
