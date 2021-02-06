@@ -5,6 +5,7 @@
 * npm install @babel/preset-env --save-dev
 * npm i @babel/plugin-transform-runtime -D
 * npm i -g babel-node
+* npm i typescript 
 * scripts "start": "nodemon --exec babel-node --require dotenv/config src/index.js"
 * create file in root **.babelrc**
 ```javascript
