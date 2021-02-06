@@ -118,3 +118,12 @@ console.log('app running on port ', 8099);
 tsc -watch
 
 npm start -- (anywhere terminal/command prompt)
+
+## Optional Npms
+* npm i jsonwebtoken
+* npm i --save-dev @types/jsonwebtoken
+
+* npm i bcryptjs
+
+
+
