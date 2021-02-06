@@ -7,7 +7,7 @@
 * npm install @babel/preset-env --save-dev
 * npm i @babel/plugin-transform-runtime -D
 * npm i -g babel-node
-* npm i typescript  
+* npm i typescript  dotenv 
 * npm i @types/node
 *  Package.js scripts>> 
 "start": "nodemon --exec babel-node --require dotenv/config extra/index.js",
