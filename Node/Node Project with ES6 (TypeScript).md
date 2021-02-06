@@ -7,13 +7,15 @@
 * npm install @babel/preset-env --save-dev
 * npm i @babel/plugin-transform-runtime -D
 * npm i -g babel-node
-* npm i typescript  dotenv 
+* npm i typescript  dotenv   --- create .env file in rootDirectory
 * npm i @types/node
 *  Package.js scripts>> 
 "start": "nodemon --exec babel-node --require dotenv/config extra/index.js",
  "dev": "ts-nodemon src/index.ts"
 
-* create file in root **.babelrc**
+
+
+* create file in root **.babelrc** -- file in rootDirectory
 ```javascript
 {
     "presets": ["@babel/preset-env"],
