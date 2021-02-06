@@ -61,6 +61,7 @@ mongoose.connect(`mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASS}@im
       })
     );
     
+    app.use('/',v1MainRoot); /// controller caling
     app.get('/', (req, res) => {
       return res.status(200).send({'message': 'YAY! Congratulations! Your first endpoint is working'});
     })
