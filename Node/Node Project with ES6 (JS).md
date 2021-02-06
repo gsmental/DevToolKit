@@ -1,5 +1,8 @@
+ npm i nodemon --g
+
 * https://babeljs.io/en/setup#installation
 * npm init --yes
+* npm i nodemon --
 * npm install express body-parser --save
 * npm install --save-dev @babel/core @babel/node @babel/preset-env -D 
 * npm install @babel/preset-env --save-dev
