@@ -23,7 +23,7 @@
 }
 ```
 
--- creat tsconfig.js
+-- creat tsconfig.json
 ```javascript
 {
   "compilerOptions": {
