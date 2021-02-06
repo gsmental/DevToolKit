@@ -2,7 +2,7 @@
 * https://babeljs.io/en/setup#installation
 * npm init --yes
 * npm install express body-parser --save
-* npm @types/express -d
+* npm i @types/express -d
 * npm install --save-dev @babel/core @babel/node @babel/preset-env -D 
 * npm install @babel/preset-env --save-dev
 * npm i @babel/plugin-transform-runtime -D
