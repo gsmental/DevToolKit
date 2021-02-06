@@ -100,7 +100,7 @@
  
  ### Simple express
 ```javascript
-// **src/index.js**
+// **src/index.ts**
 import express from 'express';
 const app = express()
 app.use(express.json())
