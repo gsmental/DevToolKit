@@ -1,0 +1,70 @@
+
+############ Reference ############
+* EntityFramework.dll
+* EntityFramework.SqlServer.dll
+* System.ComponentModel.DataAnnotations
+
+
+
+############  Dbcontext ############
+using System.Data.Entity;
+namespace EntityModel
+{
+    public class UniversityModel : DbContext
+    {
+        public UniversityModel() : base("dbConnectionName from Web.Config")  //DbConnection name
+        {
+        }
+        
+        public DbSet<Course> Course { get; set; }
+    }
+}
+
+
+
+
+############ Model ############
+using System;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+namespace University.EntityModel	
+{
+	[Table("Course")]
+	public partial class Course
+	{
+		private string _cOR_TITLE;
+		public virtual string COR_TITLE
+		{
+			get
+			{
+				return this._cOR_TITLE;
+			}
+			set
+			{
+				this._cOR_TITLE = value;
+			}
+		}
+		
+		private int _cOR_ID;
+		[Key]
+		public virtual int COR_ID
+		{
+			get
+			{
+				return this._cOR_ID;
+			}
+			set
+			{
+				this._cOR_ID = value;
+			}
+		}
+		
+	}
+}
+
+
+
+
+
+
+
