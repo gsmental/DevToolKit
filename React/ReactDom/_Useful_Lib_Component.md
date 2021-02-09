@@ -57,6 +57,7 @@
 
 ### PDF 
 * https://github.com/wojtekmaj/react-pdf
+* https://github.com/diegomura/react-pdf   pdf generate
 
 
 ### Graph/Chart/Map/Animation
