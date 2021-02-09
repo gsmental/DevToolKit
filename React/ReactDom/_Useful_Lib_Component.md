@@ -56,7 +56,6 @@
 * https://naver.github.io/egjs-flicking/
 
 ### PDF 
-* https://github.com/phuoc-ng/react-pdf-viewer
 * https://github.com/wojtekmaj/react-pdf
 
 
