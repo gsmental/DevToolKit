@@ -1,3 +1,3 @@
 ### Library to use in node sevver
-* morgan
-* multer
+* morgan -- logging
+* multer --file upload
