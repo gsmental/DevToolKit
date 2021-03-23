@@ -14,3 +14,8 @@
 * npm install --save--dev @types/jquery
 * npm install --save--dev @types/react-redux
 * npm install --save--dev @types/react-router-dom
+
+
+#### Other settings
+* import 'bootstrap/dist/css/bootstrap.css';   index.tsx (root)
+* 
