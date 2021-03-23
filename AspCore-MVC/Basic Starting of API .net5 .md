@@ -200,6 +200,25 @@ using System;
         public T data { get; set; }
         public string message { get; set; } = "ok";
     }
+    
+    //BLL
+     DLL_ExamConductRoomStrength objRoom;
+        public BLL_ExamConductRoomStrength()
+        {
+            objRoom = new DLL_ExamConductRoomStrength();
+        }
+        
+        //DLL
+         public  class DLL_ExamConductRoomStrength:dbConnPtuDocs
+    {
+        public dynamic usp_ConfirmExamConductRoomStrengthData(int ID)
+        {
+            DynamicParameters parameter = new DynamicParameters();
+            parameter.Add("@ID", ID);
+            var data = db_dapper.Query<dynamic>("usp_ConfirmExamConductRoomStrengthData", parameter, commandType: CommandType.StoredProcedure);
+            return data;
+        }
+        }
 ```
 
 
