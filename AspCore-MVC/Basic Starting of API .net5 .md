@@ -11,7 +11,7 @@
 * 
 
 
-##### DBconnection in Clas(dbConnPtuExam.cs)
+##### DBconnection in Class(dbConnPtuExam.cs)
 
 ```CSharp
 using System.Data;
@@ -32,4 +32,17 @@ namespace PtuExamRestClass
     }
 }
 ```
+
+
+######Starup.cs
+```CSharp
+public void ConfigureServices(IServiceCollection services)
+        {
+          services.AddControllers();
+          //db connection set in Class, connection will exit in appsettings.json ("PtuExamConnection")
+          dbConnPtuExam.dbConnPtuExamString = Configuration.GetConnectionString("PtuExamConnection");
+        
+        }
+```
+
 
