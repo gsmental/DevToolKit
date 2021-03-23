@@ -219,6 +219,15 @@ using System;
             return data;
         }
         }
+        
+        dll/Model
+        LoginDetails.cs
+          public class LoginDetails
+    {
+        public JsonResponse Response { get; set; }
+        public string JsonToken { get; set; }
+        public int TokenTimeOut { get; set; }
+    }
 ```
 
 
