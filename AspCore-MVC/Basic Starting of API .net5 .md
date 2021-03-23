@@ -228,6 +228,118 @@ using System;
         public string JsonToken { get; set; }
         public int TokenTimeOut { get; set; }
     }
+    
+    CommonFunctions.cs
+     public  class CommonFunctions
+    {
+
+        public static JsonResponse getResponse(DataTable dt)
+        {
+            JsonResponse _resp = new JsonResponse();
+            if (dt == null)
+            {
+                _resp.data = null;
+                _resp.statusCode = StatusCodes.Status404NotFound;
+                _resp.message = "No Record Found";
+                _resp.success = false;
+
+                return _resp;
+            }
+            if (dt.Rows.Count == 0)
+            {
+                _resp.data = null;
+                _resp.statusCode = StatusCodes.Status404NotFound;
+                _resp.message = "No Record Found";
+                _resp.success = false;
+
+                return _resp;
+            }
+            _resp.data = dt.ToDynamic();
+            return _resp;
+        }
+
+
+        public static JsonResponse getResponse(dynamic dt)
+        {
+            JsonResponse _resp = new JsonResponse();
+            if (dt == null)
+            {
+                _resp.data = null;
+                _resp.statusCode = StatusCodes.Status404NotFound;
+                _resp.message = "No Record Found";
+                _resp.success = false;
+
+                return _resp;
+            }
+            //try
+            //{
+            //    if (dt.Count == 0)
+            //    {
+            //        _resp.data = null;
+            //        _resp.statusCode = StatusCodes.Status404NotFound;
+            //        _resp.message = "No Record Found";
+            //        _resp.success = false;
+
+            //        return _resp;
+            //    }
+            //}
+            //catch (System.Exception)
+            //{
+
+                
+            //}
+           
+            _resp.data = dt;
+            return _resp;
+        }
+
+        public static JsonResponse ErrorResponse(string Exception)
+        {
+            JsonResponse _resp = new JsonResponse();
+            _resp.data = null;
+            _resp.statusCode = StatusCodes.Status500InternalServerError;
+            _resp.message = Exception;
+            _resp.success = false;
+
+            return _resp;
+        }
+
+        public static JsonResponse<T> ErrorConvertedResponse<T>(string Exception) where T : class
+        {
+           JsonResponse<T> _resp = new JsonResponse<T>();
+            _resp.data = null;
+            _resp.statusCode = StatusCodes.Status500InternalServerError;
+            _resp.message = Exception;
+            _resp.success = false;
+
+            return _resp;
+        }
+
+
+
+        public static JsonResponse<T> getConvertedResponse<T>(T dt) where T : class
+        {
+            JsonResponse<T> _resp = new JsonResponse<T>();
+            if (dt == null)
+            {
+                _resp.data = null;
+                _resp.statusCode = StatusCodes.Status404NotFound;
+                _resp.message = "No Record Found";
+                _resp.success = false;
+
+                return _resp;
+            }
+            _resp.data = dt;
+            return _resp;
+        }
+
+        public static DataTable ConvertToDatatable(dynamic data)
+        {
+            var obj = Enumerable.ToList<dynamic>(data);
+            var json = JsonConvert.SerializeObject(obj);
+            return (DataTable)JsonConvert.DeserializeObject(json, (typeof(DataTable)));
+        }
+    }
 ```
 
 
