@@ -75,7 +75,7 @@ public void ConfigureServices(IServiceCollection services)
 ```
 
 ###### appsettings.js
-
+```javascript
 {
   "ConnectionStrings": {
     "DbConnection": "Data Source=IP;Initial Catalog=db;Persist Security Info=True;User ID=UserName;Password=Password;Connect Timeout=300;pooling=true;Max Pool Size=1024;"
@@ -102,5 +102,5 @@ public void ConfigureServices(IServiceCollection services)
   "AllowedHosts": "*"
 }
 
-
+```
 
