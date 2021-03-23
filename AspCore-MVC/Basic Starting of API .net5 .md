@@ -1,5 +1,5 @@
 
-##Create a  Project
+## Create a  Project
 ##### Install from nuget (API)
 * Microsoft.AspNetCore.Authentication.JwtBearer
 * Microsoft.AspNetCore.Mvc.NewtonsoftJson
@@ -34,7 +34,7 @@ namespace PtuExamRestClass
 ```
 
 
-######Starup.cs
+###### Starup.cs
 ```CSharp
 public void ConfigureServices(IServiceCollection services)
         {
