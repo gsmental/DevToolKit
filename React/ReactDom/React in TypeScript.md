@@ -4,6 +4,7 @@
 ##### install required components/libraries
 * npm i axios
 * npm i redux
+* npm i dotenv
 * npm i jquery
 * npm i react-redux
 * npm i react-router-dom
