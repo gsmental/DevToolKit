@@ -179,6 +179,28 @@ using System;
         
     }
     }
+    
+    
+    ###### Class JsonResponse.cs 
+    
+     public class JsonResponse
+    {
+
+        public bool success { get; set; } = true;
+        public int statusCode { get; set; } = 200;
+        public dynamic data { get; set; }
+        public string message { get; set; } = "ok";
+    }
+
+    public class JsonResponse<T>
+    {
+
+        public bool success { get; set; } = true;
+        public int statusCode { get; set; } = 200;
+        public T data { get; set; }
+        public string message { get; set; } = "ok";
+    }
 ```
+
 
 
