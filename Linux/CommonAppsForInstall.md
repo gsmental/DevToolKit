@@ -60,15 +60,13 @@ https://itsfoss.com/best-ubuntu-apps/
 
 
 ## How to Install Mono on Ubuntu 20.04 | 18.04
-https://www.mono-project.com/download/stable/#download-lin
-https://linuxize.com/post/how-to-install-mono-on-ubuntu-20-04/
-
-sudo apt update
-sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
-sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-sudo apt-add-repository 'deb https://download.mono-project.com/repo/ubuntu stable-bionic main'
-sudo apt install mono-complete 
-mono --version
-sudo apt install monodevelop
-
-in case of error during build, delete bin/obj from all projects. in nutshell, it add nuget and other paths according to OS
+* https://www.mono-project.com/download/stable/#download-lin
+* https://linuxize.com/post/how-to-install-mono-on-ubuntu-20-04/
+* sudo apt update
+* sudo apt install dirmngr gnupg apt-transport-https ca-certificates software-properties-common
+* sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+* sudo apt-add-repository 'deb https://download.mono-project.com/repo/ubuntu stable-bionic main'
+* sudo apt install mono-complete 
+* mono --version
+* sudo apt install monodevelop
+* in case of error during build, delete bin/obj from all projects. in nutshell, it add nuget and other paths according to OS
