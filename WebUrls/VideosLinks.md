@@ -16,6 +16,10 @@
 * ASP.NET CORE How to create Blog https://www.youtube.com/watch?v=B6R1o70dLwU&list=PL18HZjtdIA4AlECgoCUkIi-53TgKrFwZe&index=1
 * ASP.NET WebForm https://www.youtube.com/watch?v=lu2UAp3RKbM&list=PL18HZjtdIA4Bja20T1pmT-4OgH_4k1XVd
 * React  https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
+* React https://www.youtube.com/watch?v=9Tz2tY-ZEwQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM
+* React PWA https://www.youtube.com/watch?v=XncngGHXAOM&list=PL8p2I9GklV44pmaVnDH2-rl_0Mhs5AHW2
+* Electron https://www.youtube.com/watch?v=4k9jkbq8gOM&list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD
+* 
 
 
 
