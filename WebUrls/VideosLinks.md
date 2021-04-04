@@ -22,7 +22,9 @@
 * 
 
 ## Youtube Hindi Channels
-|Code Step By Step |https://www.youtube.com/c/phpstepbystep/playlists|
+| Channel   |      Url      |  Content |
+|----------|:-------------:|------:|
+| Code Step By Step |  https://www.youtube.com/c/phpstepbystep/playlists | React, JS, Vue, angular, pwa |
 
 
 
