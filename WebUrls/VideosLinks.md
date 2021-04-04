@@ -1,12 +1,12 @@
-### Tutorial for beginners
-* SQL Server Hindi  https://www.youtube.com/watch?v=1idbrEwuh8w&list=PLysly0KYnAY08stX1R_xDayz-jlALgfAg&index=1 
-* C Hindi https://www.youtube.com/watch?v=08vc8DQZWz4&list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v&index=1
-* C# hindi https://www.youtube.com/watch?v=SuLiu5AK9Ps&t=3s
-* C hindi https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
-* python hindi(small samples) - https://www.youtube.com/watch?v=VApeSd9GEJ8&list=PL7ersPsTyYt36bAlAHSkWOGpxED3fLo7p
-* Python  hindi Interview Questions https://www.youtube.com/watch?v=wiBQpBv4zf0&list=PL7ersPsTyYt2dj8J0nh0APeXvkwnMknYA
-* C# itroduction hindi - https://www.youtube.com/watch?v=zZRSpS0RTc0&list=PL7ersPsTyYt0Wsck3TUbieqcIGVdz-DPU&index=1
-* ES6 hindi https://www.youtube.com/watch?v=1ONk1fwKp30&list=PL7ersPsTyYt2J6lT_66xNBuUI_tqt5niK&index=1
+### Tutorial for beginners(Hindi)
+* SQL Server https://www.youtube.com/watch?v=1idbrEwuh8w&list=PLysly0KYnAY08stX1R_xDayz-jlALgfAg&index=1 
+* C https://www.youtube.com/watch?v=08vc8DQZWz4&list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v&index=1
+* C# https://www.youtube.com/watch?v=SuLiu5AK9Ps&t=3s
+* C https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
+* python (small samples) - https://www.youtube.com/watch?v=VApeSd9GEJ8&list=PL7ersPsTyYt36bAlAHSkWOGpxED3fLo7p
+* Python   Interview Questions https://www.youtube.com/watch?v=wiBQpBv4zf0&list=PL7ersPsTyYt2dj8J0nh0APeXvkwnMknYA
+* C# itroduction  - https://www.youtube.com/watch?v=zZRSpS0RTc0&list=PL7ersPsTyYt0Wsck3TUbieqcIGVdz-DPU&index=1
+* ES6  https://www.youtube.com/watch?v=1ONk1fwKp30&list=PL7ersPsTyYt2J6lT_66xNBuUI_tqt5niK&index=1
 * 
 
 
