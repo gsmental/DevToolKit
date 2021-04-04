@@ -1,3 +1,7 @@
+### Tutorial for beginners
+|SQL Server| Hindi|https://www.youtube.com/watch?v=1idbrEwuh8w&list=PLysly0KYnAY08stX1R_xDayz-jlALgfAg&index=1|
+
+
 
 ## Youtube-- channel
 
