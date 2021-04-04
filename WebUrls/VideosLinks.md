@@ -2,6 +2,7 @@
 * SQL Server https://www.youtube.com/watch?v=1idbrEwuh8w&list=PLysly0KYnAY08stX1R_xDayz-jlALgfAg&index=1 
 * C https://www.youtube.com/watch?v=08vc8DQZWz4&list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v&index=1
 * C# https://www.youtube.com/watch?v=SuLiu5AK9Ps&t=3s
+* C# https://www.youtube.com/watch?v=-ji86MTHOXM&list=PLePgxAvwOSJWwp-aDPTX23Is1F2lfAIWb&index=1
 * C https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
 * python (small samples) - https://www.youtube.com/watch?v=VApeSd9GEJ8&list=PL7ersPsTyYt36bAlAHSkWOGpxED3fLo7p
 * Python   Interview Questions https://www.youtube.com/watch?v=wiBQpBv4zf0&list=PL7ersPsTyYt2dj8J0nh0APeXvkwnMknYA
