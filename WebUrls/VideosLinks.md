@@ -1,20 +1,20 @@
 ### Tutorial for beginners(Hindi)
 * SQL Server https://www.youtube.com/watch?v=1idbrEwuh8w&list=PLysly0KYnAY08stX1R_xDayz-jlALgfAg&index=1 
 * C https://www.youtube.com/watch?v=08vc8DQZWz4&list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v&index=1
+* C https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
 * C# https://www.youtube.com/watch?v=SuLiu5AK9Ps&t=3s
 * C# https://www.youtube.com/watch?v=-ji86MTHOXM&list=PLePgxAvwOSJWwp-aDPTX23Is1F2lfAIWb&index=1
-* C https://www.youtube.com/watch?v=EMEvheCVhMk&list=PL7ersPsTyYt2Q-SqZxTA1D-melSfqBRMW
-* python (small samples) - https://www.youtube.com/watch?v=VApeSd9GEJ8&list=PL7ersPsTyYt36bAlAHSkWOGpxED3fLo7p
-* Python   Interview Questions https://www.youtube.com/watch?v=wiBQpBv4zf0&list=PL7ersPsTyYt2dj8J0nh0APeXvkwnMknYA
 * C# itroduction  - https://www.youtube.com/watch?v=zZRSpS0RTc0&list=PL7ersPsTyYt0Wsck3TUbieqcIGVdz-DPU&index=1
-* ES6  https://www.youtube.com/watch?v=1ONk1fwKp30&list=PL7ersPsTyYt2J6lT_66xNBuUI_tqt5niK&index=1
-* ES6 complete tutorial https://www.youtube.com/watch?v=_GMEqhUyyFM
 * C# -Winform  https://www.youtube.com/watch?v=ULzJNoSg2Xo&list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc&index=1
-* C# ASP.NET Core 3.1 -mvc * https://www.youtube.com/watch?v=MKZ0zxU1Z8w&list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB&index=1
 * C# Winform-SQl Server project https://www.youtube.com/watch?v=WOa8ilsPzB8&list=PLUyYwyJA_WfQWAhYtxWGXuNIK8pxKvQz4
+* C# ASP.NET Core 3.1 -mvc * https://www.youtube.com/watch?v=MKZ0zxU1Z8w&list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB&index=1
 * ASP.NET CORE API  https://www.youtube.com/watch?v=YIf_MIsHPNY&list=PL18HZjtdIA4CcOW9DeICmgk_VOnwhB8Cz
 * ASP.NET CORE How to create Blog https://www.youtube.com/watch?v=B6R1o70dLwU&list=PL18HZjtdIA4AlECgoCUkIi-53TgKrFwZe&index=1
 * ASP.NET WebForm https://www.youtube.com/watch?v=lu2UAp3RKbM&list=PL18HZjtdIA4Bja20T1pmT-4OgH_4k1XVd
+* python (small samples) - https://www.youtube.com/watch?v=VApeSd9GEJ8&list=PL7ersPsTyYt36bAlAHSkWOGpxED3fLo7p
+* Python   Interview Questions https://www.youtube.com/watch?v=wiBQpBv4zf0&list=PL7ersPsTyYt2dj8J0nh0APeXvkwnMknYA
+* ES6  https://www.youtube.com/watch?v=1ONk1fwKp30&list=PL7ersPsTyYt2J6lT_66xNBuUI_tqt5niK&index=1
+* ES6 complete tutorial https://www.youtube.com/watch?v=_GMEqhUyyFM
 * React  https://www.youtube.com/watch?v=tiLWCNFzThE&list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ
 * React https://www.youtube.com/watch?v=9Tz2tY-ZEwQ&list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM
 * React PWA https://www.youtube.com/watch?v=XncngGHXAOM&list=PL8p2I9GklV44pmaVnDH2-rl_0Mhs5AHW2
