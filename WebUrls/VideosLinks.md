@@ -9,7 +9,11 @@
 * C# itroduction  - https://www.youtube.com/watch?v=zZRSpS0RTc0&list=PL7ersPsTyYt0Wsck3TUbieqcIGVdz-DPU&index=1
 * ES6  https://www.youtube.com/watch?v=1ONk1fwKp30&list=PL7ersPsTyYt2J6lT_66xNBuUI_tqt5niK&index=1
 * C# -Winform  https://www.youtube.com/watch?v=ULzJNoSg2Xo&list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc&index=1
-* 
+* C# ASP.NET Core 3.1 -mvc * https://www.youtube.com/watch?v=MKZ0zxU1Z8w&list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB&index=1
+* C# Winform-SQl Server project https://www.youtube.com/watch?v=WOa8ilsPzB8&list=PLUyYwyJA_WfQWAhYtxWGXuNIK8pxKvQz4
+* ASP.NET CORE API  https://www.youtube.com/watch?v=YIf_MIsHPNY&list=PL18HZjtdIA4CcOW9DeICmgk_VOnwhB8Cz
+* ASP.NET CORE How to create Blog https://www.youtube.com/watch?v=B6R1o70dLwU&list=PL18HZjtdIA4AlECgoCUkIi-53TgKrFwZe&index=1
+
 
 
 
