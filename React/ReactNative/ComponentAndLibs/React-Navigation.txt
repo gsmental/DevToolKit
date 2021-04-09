@@ -1,5 +1,5 @@
 Navigation will not PUSH next component without a function  (not use componentDidMount)
-
+//navigation.navigate/push/pop/PopToTop/ all option to visit next page 
 
 npm i @react-navigation/native
                                              
