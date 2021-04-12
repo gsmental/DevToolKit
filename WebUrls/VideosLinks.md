@@ -64,7 +64,7 @@
 * https://www.youtube.com/c/CODERSNEVERQUIT  React, python, ML,AI, JS, mern , react-native, react-native, clone, 
 
 | Channel   |      Url      | Content|
-|----------|:-------------:|
+|----------|:-------------:|:-------------:|
 | Les Jackson|  https://www.youtube.com/c/binarythistle/videos |.net .net Core, Entity framework, WebSocket, Docker, Azure DevOps, GraphQL in .net|
 
 
