@@ -27,6 +27,11 @@
 | Code Step By Step |  https://www.youtube.com/c/phpstepbystep/playlists | React, JS, Vue, angular, pwa |
 
 
+## Language wise English Tutotals
+| Channel   |      Url      |
+|----------|:-------------:|------:|
+| .NET 5 REST API Tutorial |  https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS  |
+
 
 
 ## Youtube-- channel
