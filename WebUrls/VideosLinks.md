@@ -61,11 +61,19 @@
 * https://www.youtube.com/c/codedamn/  react-native, flutter,docker,
 * https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI AI demo with robot
 * https://www.youtube.com/c/ProgrammingKnowledge/   Angular, React, Redux, Nodejs, Web development, Docker, AWS, Vue JS, All about Javascript
-* https://www.youtube.com/c/CODERSNEVERQUIT  React, python, ML,AI, JS, mern , react-native, react-native, clone, 
+* https://www.youtube.com/c/CODERSNEVERQUIT   
 
 | Channel   |      Url      | Content|
 |----------|:-------------:|:-------------:|
 | Les Jackson|  https://www.youtube.com/c/binarythistle/videos |.net .net Core, Entity framework, WebSocket, Docker, Azure DevOps, GraphQL in .net|
+|CODERS NEVER QUIT|https://www.youtube.com/channel/UCM-4HE0R3iLxKB7qaq1bskw|React, python, ML,AI, JS, mern , react-native, react-native, clone,|
+||||
+||||
+||||
+||||
+||||
+||||
+
 
 
 
