@@ -35,7 +35,7 @@
 |Asp.Net Core WebSockets Vs SignalR. Which should you use? (Full Course)|https://www.youtube.com/watch?v=ycVgXe6v1VQ|
 |Creating a .NET 5 Microservice|https://www.youtube.com/watch?v=MIJJCR3ndQQ|
 |Secure a .NET Core API with Bearer Authentication|https://www.youtube.com/watch?v=3PyUjOmuFic|
-|||
+|Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core|https://www.youtube.com/watch?v=DqD-NJf7-OM|
 |||
 |||
 |||
@@ -67,7 +67,7 @@
 |----------|:-------------:|:-------------:|
 | Les Jackson|  https://www.youtube.com/c/binarythistle/videos |.net .net Core, Entity framework, WebSocket, Docker, Azure DevOps, GraphQL in .net|
 |CODERS NEVER QUIT|https://www.youtube.com/channel/UCM-4HE0R3iLxKB7qaq1bskw|React, python, ML,AI, JS, mern , react-native, react-native, clone,|
-||||
+|InterviewGIG|https://www.youtube.com/c/InterviewGIG/playlists| free job interview questions & Answers for interviews.  like SQL, linuix, big-data, java,sales force, cloud computing|
 ||||
 ||||
 ||||
