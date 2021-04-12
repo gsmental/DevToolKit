@@ -31,6 +31,16 @@
 | Channel   |      Url      |
 |----------|:-------------:|
 | .NET 5 REST API Tutorial |  https://www.youtube.com/playlist?list=PLeD0-5Hw0ZJ_GlY21kfzfQD-N17i8pdTS  |
+|GraphQL API with .NET 5 and Hot Chocolate|https://www.youtube.com/watch?v=HuN94qNwQmM|
+|Asp.Net Core WebSockets Vs SignalR. Which should you use? (Full Course)|https://www.youtube.com/watch?v=ycVgXe6v1VQ|
+|Creating a .NET 5 Microservice|https://www.youtube.com/watch?v=MIJJCR3ndQQ|
+|Secure a .NET Core API with Bearer Authentication|https://www.youtube.com/watch?v=3PyUjOmuFic|
+|||
+|||
+|||
+|||
+|||
+|||
 
 
 
@@ -52,6 +62,13 @@
 * https://www.youtube.com/c/MurtazasWorkshopRoboticsandAI AI demo with robot
 * https://www.youtube.com/c/ProgrammingKnowledge/   Angular, React, Redux, Nodejs, Web development, Docker, AWS, Vue JS, All about Javascript
 * https://www.youtube.com/c/CODERSNEVERQUIT  React, python, ML,AI, JS, mern , react-native, react-native, clone, 
+
+| Channel   |      Url      | Content|
+|----------|:-------------:|
+| Les Jackson|  https://www.youtube.com/c/binarythistle/videos |.net .net Core, Entity framework, WebSocket, Docker, Azure DevOps, GraphQL in .net|
+
+
+
 
 ## Designing /UX/UI
 * https://www.youtube.com/c/DesignCourse mobile,video,Photoshop, 
