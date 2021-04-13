@@ -352,6 +352,7 @@ using System.Security.Claims;
 ```
 
 ```CSharp
+//StatusCodes
 namespace PtuExamRestClass
 {    public  class  StatusCodes
     {
@@ -362,19 +363,14 @@ namespace PtuExamRestClass
 ```
 
 ```CSharp
-ExtensionMethods.cs
+//ExtensionMethods.cs
 using System.Collections.Generic;
 using System.Data;
 using System.Dynamic;
-
-
 namespace PtuExamRestClass
 {
-   
      public static class ExtensionMethods
     {
-
-
         public static List<dynamic> ToDynamic(this DataTable dt)
         {
             var dynamicDt = new List<dynamic>();
@@ -390,7 +386,6 @@ namespace PtuExamRestClass
             }
             return dynamicDt;
         }
-
     }
 }
 
