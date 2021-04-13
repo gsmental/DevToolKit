@@ -185,11 +185,6 @@ using System.Security.Claims;
 
 
 ```CSharp
-    
-    
-    
-    
-    
     ###### Class JsonResponse.cs 
     
      namespace PtuExamClassLib
@@ -240,7 +235,10 @@ using System.Security.Claims;
         }
         }
         
-        dll/Model
+ ```
+
+
+```CSharp  
         LoginDetails.cs
           public class LoginDetails
     {
