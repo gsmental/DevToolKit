@@ -185,7 +185,10 @@ using System.Security.Claims;
     
     ###### Class JsonResponse.cs 
     
-     public class JsonResponse
+     namespace PtuExamClassLib
+{
+ 
+ public class JsonResponse
     {
 
         public bool success { get; set; } = true;
@@ -202,6 +205,10 @@ using System.Security.Claims;
         public T data { get; set; }
         public string message { get; set; } = "ok";
     }
+}
+
+
+
     
     //BLL
      DLL_ExamConductRoomStrength objRoom;
