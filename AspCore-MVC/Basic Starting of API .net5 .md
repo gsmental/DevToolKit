@@ -237,9 +237,22 @@ using System.Security.Claims;
         public string JsonToken { get; set; }
         public int TokenTimeOut { get; set; }
     }
+    ```
+
+
+```CSharp
+    //CommonFunctions.cs
     
-    CommonFunctions.cs
-     public  class CommonFunctions
+   using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace PtuExamClassLib
+{
+ public  class CommonFunctions
     {
 
         public static JsonResponse getResponse(DataTable dt)
@@ -349,6 +362,9 @@ using System.Security.Claims;
             return (DataTable)JsonConvert.DeserializeObject(json, (typeof(DataTable)));
         }
     }
+}
+   
+   
 ```
 
 ```CSharp
