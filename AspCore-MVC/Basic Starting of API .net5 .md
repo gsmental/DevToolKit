@@ -237,7 +237,7 @@ using System.Security.Claims;
         public string JsonToken { get; set; }
         public int TokenTimeOut { get; set; }
     }
-    ```
+ ```
 
 
 ```CSharp
