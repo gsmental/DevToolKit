@@ -351,5 +351,15 @@ using System.Security.Claims;
     }
 ```
 
+```CSharp
+namespace PtuExamRestClass
+{    public  class  StatusCodes
+    {
+        public static int Status404NotFound = 404;
+        public static int Status500InternalServerError = 500;
+    }
+}
+```
+
 
 
