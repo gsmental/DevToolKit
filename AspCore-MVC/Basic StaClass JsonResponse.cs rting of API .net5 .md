@@ -239,13 +239,15 @@ using System.Security.Claims;
 
 
 ```CSharp  
-        LoginDetails.cs
+namespace PtuExamClassLib
+{
           public class LoginDetails
     {
         public JsonResponse Response { get; set; }
         public string JsonToken { get; set; }
         public int TokenTimeOut { get; set; }
     }
+}
  ```
 
 
