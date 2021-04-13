@@ -36,8 +36,7 @@
 |Creating a .NET 5 Microservice|https://www.youtube.com/watch?v=MIJJCR3ndQQ|
 |Secure a .NET Core API with Bearer Authentication|https://www.youtube.com/watch?v=3PyUjOmuFic|
 |Learn ASP.NET Core 5.0 MVC - CRUD Operations, EntityFramework Core|https://www.youtube.com/watch?v=DqD-NJf7-OM|
-|||
-|||
+|Understanding WebSockets with ASP.NET Core|https://sahansera.dev/understanding-websockets-with-aspnetcore-5/|
 |||
 |||
 |||
