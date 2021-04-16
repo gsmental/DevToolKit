@@ -4,6 +4,7 @@
 * Microsoft.AspNetCore.Authentication.JwtBearer
 * Microsoft.AspNetCore.Mvc.NewtonsoftJson
 * Newtonsoft.Json
+* Microsoft.AspNetCore.Cors
 
 ##### Install from nuget (Class)
 * Dapper
