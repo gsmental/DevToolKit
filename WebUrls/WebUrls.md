@@ -1,4 +1,4 @@
-# free resources for developrs  
+# A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 * https://github.com/sojan-official/free-for-dev (thousands of websites)
 
 # All Links
