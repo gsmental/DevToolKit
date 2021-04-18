@@ -1,3 +1,6 @@
+# free resources for developrs  
+* https://github.com/sojan-official/free-for-dev (thousands of websites)
+
 # All Links
 * http://www.irdevelopers.com/
 * https://99udemy.com/
