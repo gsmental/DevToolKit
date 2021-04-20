@@ -7,7 +7,8 @@
 ##### Note..
 * In case of face issued related to CORS then  change in Webconfig (.net website)
 
-`xml
+
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
  <system.webServer>
@@ -18,4 +19,4 @@
    </httpProtocol>
  </system.webServer>
 </configuration
-`
+```
