@@ -7,3 +7,8 @@
 * import 'bootstrap/dist/css/bootstrap.min.css';   index.tsx (root)
 * import "../src/assets/css/sb-admin-2.min.css"; index.tsx (root)
 * import $ from "jquery"; index.tsx (root)
+
+##### Additional npms
+* npm i react-pdf
+* npm i --save-dev @types/react-pdf
+* 
