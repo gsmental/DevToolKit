@@ -5,7 +5,7 @@
 * import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
 
 ##### Note..
-* In case of face issued related to CORS then  change in Webconfig (.net website)
+* In case of face issued related to CORS during download/view pdf file  then  change in Webconfig (.net/webapi website)
 
 
 ```xml
