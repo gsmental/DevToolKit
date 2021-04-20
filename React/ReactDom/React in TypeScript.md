@@ -11,4 +11,4 @@
 ##### Additional npms
 * npm i react-pdf
 * npm i --save-dev @types/react-pdf
-* 
+* import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
