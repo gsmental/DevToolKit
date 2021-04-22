@@ -17,7 +17,6 @@ Kota Factory|Education|https://www.youtube.com/watch?v=JWbnEt3xuos||No|
 |Bad Boys|bank corrupt in india||Family|
 |Paava Kadhaigal |Honour, Love, Sin, Pride. Four stories, one rollercoaster of emotions. Paava Kadhaigal is a Tamil anthology helmed by four celebrated directors, who explore the intricacies of complex relationships through four gut wrenching stories. |https://www.youtube.com/watch?v=HJDrAtsbMBo|Adult, crime, not for immotional people|
 |Laakhon Mein Ek|Three boys, hostel living, a campus for a pre IIT coaching institute, the burden of expectations -- Laakhon Mein Ek takes a hard yet amusing look at the realities of student life. |https://www.youtube.com/watch?v=mr708zR24U8|Family|
-
 |Panchayat|Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh.|https://www.youtube.com/watch?v=mojZJ7oeD_g|Family|
 
 |Gullak|Gullak is a collection of disarming and relatable tales of the Mishra family.  |https://www.youtube.com/watch?v=4UlliBTzKd4 |Family|
