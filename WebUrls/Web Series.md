@@ -20,6 +20,7 @@ Kota Factory|Education|https://www.youtube.com/watch?v=JWbnEt3xuos||No|
 |Panchayat|Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh.|https://www.youtube.com/watch?v=mojZJ7oeD_g|Family|
 |Gullak|Gullak is a collection of disarming and relatable tales of the Mishra family.  |https://www.youtube.com/watch?v=4UlliBTzKd4 |Family|
 |Inside Edge|Set in a landscape of conflicting interests, where selfishness is almost a virtue, where sex, money, and power are mere means to an end|https://www.youtube.com/watch?v=T1y3aIfZXJ8|18+|
+|Jamtara|bank ATM fraud||Family|
 
 
 
