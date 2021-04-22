@@ -18,7 +18,7 @@ Kota Factory|Education|https://www.youtube.com/watch?v=JWbnEt3xuos||No|
 |Paava Kadhaigal |Honour, Love, Sin, Pride. Four stories, one rollercoaster of emotions. Paava Kadhaigal is a Tamil anthology helmed by four celebrated directors, who explore the intricacies of complex relationships through four gut wrenching stories. |https://www.youtube.com/watch?v=HJDrAtsbMBo|Adult, crime, not for immotional people|
 |Laakhon Mein Ek|Three boys, hostel living, a campus for a pre IIT coaching institute, the burden of expectations -- Laakhon Mein Ek takes a hard yet amusing look at the realities of student life. |https://www.youtube.com/watch?v=mr708zR24U8|Family|
 
-|Inside Edge|Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League. Set in a landscape of conflicting interests, where selfishness is almost a virtue, where sex, money, and power are mere means to an end|https://www.youtube.com/watch?v=T1y3aIfZXJ8|Adult not for family|
+|Inside Edge | Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League. Set in a landscape of conflicting interests, where selfishness is almost a virtue, where sex, money, and power are mere means to an end | https://www.youtube.com/watch?v=T1y3aIfZXJ8 | Adult not for family|
 
 |Panchayat|Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh.|https://www.youtube.com/watch?v=mojZJ7oeD_g|Family|
 
