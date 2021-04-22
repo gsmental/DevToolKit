@@ -20,6 +20,7 @@ Kota Factory|Education|https://www.youtube.com/watch?v=JWbnEt3xuos||No|
 |Inside Edge|India's first Amazon Original, Inside Edge is the story of the Mumbai Mavericks, a T20 cricket franchise playing in the Powerplay League. Set in a landscape of conflicting interests, where selfishness is almost a virtue, where sex, money, and power are mere means to an end, Inside Edge is a story that pulls no punches, minces no words, and takes no prisoners. Come witness the game behind the game.|https://www.youtube.com/watch?v=T1y3aIfZXJ8|Adult not for family|
 
 |Panchayat|Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh.|https://www.youtube.com/watch?v=mojZJ7oeD_g|Family|
+|Gullak|Gullak is a collection of disarming and relatable tales of the Mishra family. |https://www.youtube.com/watch?v=4UlliBTzKd4|Family|
 
 ### Punjabi
 Name | Description | Url | More adult|
