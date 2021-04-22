@@ -16,7 +16,7 @@ Kota Factory|Education|https://www.youtube.com/watch?v=JWbnEt3xuos||No|
 |TVF Pitchers|Job/Buiness, information,comedy, Startup, issues in jobs||Family|
 |Bad Boys|bank corrupt in india||Family|
 |Paava Kadhaigal |Honour, Love, Sin, Pride. Four stories, one rollercoaster of emotions. Paava Kadhaigal is a Tamil anthology helmed by four celebrated directors, who explore the intricacies of complex relationships through four gut wrenching stories. |https://www.youtube.com/watch?v=HJDrAtsbMBo|Adult, crime, not for immotional people|
-
+|Laakhon Mein Ek|Three boys, hostel living, a campus for a pre IIT coaching institute, the burden of expectations -- Laakhon Mein Ek takes a hard yet amusing look at the realities of student life. |https://www.youtube.com/watch?v=mr708zR24U8|Family|
 
 ### Punjabi
 Name | Description | Url | More adult|
