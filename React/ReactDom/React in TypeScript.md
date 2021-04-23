@@ -15,7 +15,6 @@
 ### install required components/libraries (MaterialUI)
 * npm i axios bootstrap dotenv redux react-redux react-router-dom redux-thunk router @material-ui/core
 * npm install --save--dev @types/react-redux @types/react-router-dom
-*  stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
 
 ### Roboto font 
 * stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
