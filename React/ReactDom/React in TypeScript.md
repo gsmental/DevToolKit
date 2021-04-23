@@ -8,7 +8,7 @@
 * import "../src/assets/css/sb-admin-2.min.css"; index.tsx (root)
 * import $ from "jquery"; index.tsx (root)
 * font-awesome cdn css link in add in public/index.html
-*  stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+
 
 
 
@@ -17,7 +17,14 @@
 * npm install --save--dev @types/react-redux @types/react-router-dom
 *  stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
 
-
+### Roboto font 
+* stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+* index.css   
+```css
+* {
+  font-family: Roboto, sans-serif;  
+}
+```
 
 
 
