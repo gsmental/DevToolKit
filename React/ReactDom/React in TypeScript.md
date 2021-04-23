@@ -17,7 +17,11 @@
 * npm install --save--dev @types/react-redux @types/react-router-dom
 
 ### Roboto font 
-* stylesheet in index.html href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+* index.html
+```html
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
+```
 * index.css   
 ```css
 * {
