@@ -22,10 +22,3 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
 ```
 
-
-
-
-##### Additional npms
-* npm i react-pdf
-* npm i --save-dev @types/react-pdf
-* import { Document,Page } from 'react-pdf/dist/esm/entry.webpack';
