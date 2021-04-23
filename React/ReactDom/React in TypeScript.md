@@ -8,11 +8,14 @@
 * import "../src/assets/css/sb-admin-2.min.css"; index.tsx (root)
 * import $ from "jquery"; index.tsx (root)
 * font-awesome cdn css link in add in public/index.html
+*  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
+
 
 
 ### install required components/libraries (MaterialUI)
 * npm i axios bootstrap dotenv redux react-redux react-router-dom redux-thunk router @material-ui/core
 * npm install --save--dev @types/react-redux @types/react-router-dom
+* <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
 
 
 
