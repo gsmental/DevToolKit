@@ -1,5 +1,9 @@
 ## UI* 
 
+### Random/Unique String Generator
+* https://www.npmjs.com/package/nanoid  to geneate unique values it is better then uuid
+
+
  ### Drage and Drop component/Files/text.values
 * https://www.npmjs.com/package/react-beautiful-dnd  --- v.good Drage Drop list beautifull library
 
