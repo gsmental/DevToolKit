@@ -79,3 +79,99 @@ function DetailsScreen({ route, navigation }) {
     </View>
   );
 }
+
+---- example -----3----
+```js
+
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
+import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
+
+const Tab = createBottomTabNavigator();
+
+function MainTab() {
+  return (
+    // <Tab.Navigator tabBar={props => <TabBar {...props} />}>
+    <Tab.Navigator initialRouteName="Messages" 
+    
+    
+    tabBarOptions={{
+      activeTintColor: 'tomato',
+      inactiveTintColor: 'gray',
+      
+    }}>
+      <Tab.Screen
+        
+        name="Messages"
+        component={MessagesComponent}
+        options={{
+          title: 'Messages',
+          tabBarIcon: () => (
+      // question_answer
+      // sticky_note_2
+      // forum
+      // message
+      // insert_comment
+            <Icon name="forum" size={30} color={MyConst.Color.colorPrimary} />
+         ),
+        }}
+      />
+      {/* <Tab.Screen name="PinsMessagesComponent" component={PinsMessagesComponent}
+      options={{
+        title:"Pins" ,
+        tabBarIcon: () => (
+          //local_offer it is best suitable but not working
+          <Icon name="local_offer" size={30} color={MyConst.Color.colorPrimary} />
+       ),
+      }}
+      /> */}
+      <Tab.Screen name="SettingsComponent" component={SettingsComponent}
+      options={{
+        title:"Settings",
+        tabBarIcon: () => (
+          <Icon name="settings" size={30} color={MyConst.Color.colorPrimary} />
+       ),
+      }}
+      />
+    </Tab.Navigator>
+  );
+}
+
+const Stack = createStackNavigator();
+
+export default function AppNavigator() {
+  return (
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="SplashScreen">
+        <Stack.Screen
+          name="SplashScreen"
+          component={SplashScreen}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="AgreementLogin"
+          component={AgreementLogin}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="DashboardHome"
+          component={MainTab}
+          options={{headerShown: false}}
+        />
+        <Stack.Screen
+          name="MobileOtpVerification"
+          options={{headerTitle: ''}}
+          component={MobileOtpVerification}
+        />
+         <Stack.Screen
+          name="Conversation"
+          component={Conversation}
+        />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
+}
+```
+
+
+
