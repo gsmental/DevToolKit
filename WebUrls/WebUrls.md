@@ -93,7 +93,7 @@
 * http://photopin.com/
 
 # illustrations (free)
-* https://storyset.com/data
+* https://storyset.com
 * https://undraw.co/
 
 # Jquery/Bootstrap/Angular/Javascript
