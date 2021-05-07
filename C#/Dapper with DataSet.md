@@ -20,12 +20,16 @@
 
 
 ## Pattern-2
-                   DynamicParameters parameter = new DynamicParameters();
-            parameter.Add("@xxx", xxx);
-     
-            var data = db_dapper.ExecuteReader("xxx", parameter, commandType: CommandType.StoredProcedure);
+             
+            
+               public DataSet mymethod(string param1)
+        {
+            DynamicParameters parameter = new DynamicParameters();
+            parameter.Add("@param1", param1);
+            var data = db_dapper.ExecuteReader("spname", parameter, commandType: CommandType.StoredProcedure);
             DataSet ds = ConvertDataReaderToDataSet(data);
             return ds;
+        }
             
             
             public static DataSet ConvertDataReaderToDataSet(IDataReader data)
