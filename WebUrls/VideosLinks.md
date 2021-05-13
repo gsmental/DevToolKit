@@ -25,6 +25,7 @@
 | Channel   |      Url      |  Content |
 |----------|:-------------:|------:|
 | Code Step By Step |  https://www.youtube.com/c/phpstepbystep/playlists | React, JS, Vue, angular, pwa |
+|WsCube Tech|https://www.youtube.com/c/wscubetechjodhpur/videos|Wordpress, Digital Market, google Ads, Bootstrap, CorelDraw,AutoCAD, SEO, MatLab, Adobe, Javascript, typescript,Adobe Premiere Pro, Video editing|
 
 
 ## Language wise English Tutotals
