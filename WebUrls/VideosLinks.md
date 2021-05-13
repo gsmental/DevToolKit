@@ -26,6 +26,7 @@
 |----------|:-------------:|------:|
 | Code Step By Step |  https://www.youtube.com/c/phpstepbystep/playlists | React, JS, Vue, angular, pwa |
 |WsCube Tech|https://www.youtube.com/c/wscubetechjodhpur/videos|Wordpress, Digital Market, google Ads, Bootstrap, CorelDraw, AutoCAD, SEO, MatLab, Adobe, Javascript, typescript, Adobe Premiere Pro, Video editing |
+|Billi 4 You|https://www.youtube.com/user/billi4you| video Editing, Adobe Premiere Pro, Final Cut Pro , Photoshop , Filmora, Filmora X, DaVinci Resolve|
 
 
 ## Language wise English Tutotals
