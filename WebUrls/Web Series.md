@@ -2,6 +2,7 @@
 Name | Description | Url | More adult|
 --- | --- | --- |---|
 Money Heist | Crime, suspense,Bank loot | |No |
+The Crime of the Century (2021): Official Trailer | HBO|Big Pharma sold America a lie and made a killing.The Crime of the Century, an HBO original documentary from Alex Gibney, exposes the billions of dollars gained and thousands of lives lost due to the opioid crisis.||
 
 ### Hindi
 Name | Description | Url | More adult|
