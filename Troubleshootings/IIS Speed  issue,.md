@@ -32,11 +32,10 @@ The Advanced Settings dialog box appears.
   * Change the value of the parameter Queue Length to 65535.
   * Change the value of the parameter Maximum Worker Processes to 5 or more.
 * After making the changes, Click OK, and close the Internet Information Services (IIS) Manager.
+* 
 * Open Windows Command prompt, and then do the following:
-  Type the following command to change the value of IIS concurrent request limit to 100000:
-c:\windows\system32\inetsrv\appcmd.exe set config /section:serverRuntime /appConcurrentRequestLimit:100000
-Note	
-Note
+    * Type the following command to change the value of IIS concurrent request limit to 100000: c:\windows\system32\inetsrv\appcmd.exe set config /section:serverRuntime /appConcurrentRequestLimit:100000
+
 To verify this change, open file applicationHost.config by typing command file %systemroot%\System32\inetsrv\config\applicationHost.config in the Command prompt, and then verify the value of parameter serverRuntime appConcurrentRequestLimit, which should be 100000.
 Type the following command to change IIS concurrent request limit to 100000 in the Windows registry:
 reg add HKLM\System\CurrentControlSet\Services\HTTP\Parameters /v MaxConnections /t REG_DWORD /d 100000
