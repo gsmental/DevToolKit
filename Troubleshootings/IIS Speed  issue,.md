@@ -29,8 +29,8 @@ https://docs.trendmicro.com/all/ent/tmms-ee%5Cv9.0%5Cen-us%5Ctmms-ee_9.0_olh_ser
 * Click Application Pools in the left pane, select the AppPool where Mobile Security is installed from the list in the center pane, and then click Advanced Settings... in the right pane.
 The Advanced Settings dialog box appears.
 * On the Advanced Settings dialog box, make the following changes:
-  i.Change the value of the parameter Queue Length to 65535.
- ii. Change the value of the parameter Maximum Worker Processes to 5 or more.
+  * Change the value of the parameter Queue Length to 65535.
+  * Change the value of the parameter Maximum Worker Processes to 5 or more.
 * After making the changes, Click OK, and close the Internet Information Services (IIS) Manager.
 * Open Windows Command prompt, and then do the following:
   Type the following command to change the value of IIS concurrent request limit to 100000:
