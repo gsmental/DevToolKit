@@ -1,5 +1,5 @@
 #### Creation
-* npx create-react-app my-app --template typescript
+* npx create-react-app fagito.eu --template cra-template-pwa-typescript
 
 ### install required components/libraries (Bootstrap)
 * npm i axios bootstrap dotenv jquery react-bootstrap redux react-redux react-router-dom redux-thunk router sweetalert2
