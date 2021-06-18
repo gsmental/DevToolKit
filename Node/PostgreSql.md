@@ -10,6 +10,10 @@
 * db_password=fghfgh
 * db_port=5432
 
+### index.ts (root)
+* import dotenv from 'dotenv';
+* dotenv.config();
+
 
 
 
