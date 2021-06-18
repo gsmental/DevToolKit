@@ -29,9 +29,57 @@ export const dbConfig = {
 };
 ```
 
-```cs
-import aa.dfd
+### ClassLib/TableNameClass.ts
+```ts
+import { Pool } from "pg";
+import { dbConfig } from "../helper/dbConfig";
+import { JsonResponse } from "../Modals/JsonResponse";
+
+class TableNameClass {
+  pool: Pool;
+
+  constructor() {
+    this.pool = new Pool(dbConfig);
+  }
+
+  GetNewsCategoryList = async (cb: (resp: JsonResponse) => void) => {
+    // const pool = new Pool(dbConfig;
+    let jResponse = new JsonResponse();
+
+    await this.pool
+      .query(
+        "Select categoryid,categoryname  from categorymaster where categoryactive=1::bit and maincategoryid=2",
+      )
+      .then((resp) => {
+        jResponse.data = resp.rows;
+      })
+      .catch((err) => {
+        jResponse.data = err.message;
+        jResponse.message = err.message;
+        jResponse.statusCode = 500;
+        jResponse.success = false;
+      });
+
+    cb(jResponse);
+  };
+
+}
+
+export default TableNameClass;
+
+
 ```
+
+### Modals/JsonResponse.ts
+```js
+export class JsonResponse {
+    success: boolean = true;
+    statusCode: number = 200;
+    data: any;
+    message: string = "ok";
+  }
+```
+
 
 
 
