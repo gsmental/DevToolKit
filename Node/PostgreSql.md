@@ -48,7 +48,7 @@ class TableNameClass {
 
     await this.pool
       .query(
-        "Select categoryid,categoryname  from categorymaster where categoryactive=1::bit and maincategoryid=2",
+        "Select categoryid,categoryname  from categorymaster",
       )
       .then((resp) => {
         jResponse.data = resp.rows;
