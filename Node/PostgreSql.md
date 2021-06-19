@@ -70,7 +70,7 @@ export default TableNameClass;
 
 ```
 
-### Modals/JsonResponse.ts
+### Models/JsonResponse.ts
 ```js
 export class JsonResponse {
     success: boolean = true;
