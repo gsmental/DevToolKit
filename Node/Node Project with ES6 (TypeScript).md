@@ -1,3 +1,10 @@
+## this is important follow these steps
+https://www.digitalocean.com/community/tutorials/setting-up-a-node-project-with-typescript
+
+
+
+
+
 * npm i nodemon --g
 * https://babeljs.io/en/setup#installation
 * npm init --yes
