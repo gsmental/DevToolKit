@@ -13,3 +13,17 @@ export async function getStaticProps() {
 }
 ```
 
+
+```js
+// it will getch server side data, no code will render client side
+export async function getServerSideProps({ query }) {
+  const { id } = query;
+  const res = await fetch("https://jsonplaceholder.typicode.com/posts/" + id);
+  const postData = await res.json();
+  return {
+    props: {
+      postData,
+    },
+  };
+}
+```
