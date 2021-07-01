@@ -1,5 +1,5 @@
 ```js
-// static props , it will save data during build
+// static props , it will save data during build, it will serve generated html pages.
 
 import React from "react";
 import Link from "next/link";
