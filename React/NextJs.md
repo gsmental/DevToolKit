@@ -27,3 +27,20 @@ export async function getServerSideProps({ query }) {
   };
 }
 ```
+
+```js
+// it will fetch all data during build, in case of addtional/extra parameter, it will give eror 
+export async function getStaticPaths() {
+  const paths = ["/posts/1", "/posts/2"];
+  return { paths, fallback: false };
+}
+```
+```js
+// it will fetch all data during build only these paramerster, in case of other parameter it will go to live server.
+export async function getStaticPaths() {
+  const paths = ["/posts/1", "/posts/2"];
+  return { paths, fallback: true };
+}
+```
+
+
