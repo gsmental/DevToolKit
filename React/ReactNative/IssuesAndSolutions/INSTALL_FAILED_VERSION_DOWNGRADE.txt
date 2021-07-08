@@ -1,0 +1,7 @@
+technically you install new app with different version, but already installed different app (may be with same name)
+
+Android Emulator: Installation error: INSTALL_FAILED_VERSION_DOWNGRADE
+
+install already installed app on emulator/device
+
+https://www.wikitechy.com/errors-and-fixes/java/android-emulator-installation-error-install-failed-version-downgrade
